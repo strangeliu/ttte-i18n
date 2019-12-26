@@ -39,7 +39,7 @@
 "account.manage.title" = "Quản lý tài khoản";
 
 
-"accountManager.add" = "Add Account";
+"accountManager.add" = "Add account";
 
 
 "accountManager.delete" = "Delete";
@@ -48,28 +48,28 @@
 "accountManager.deleteAlert.action.confirm" = "Delete";
 
 
-"accountManager.deleteAlert.title" = "Delete Account %@ ?";
+"accountManager.deleteAlert.title" = "Delete account %@ ?";
 
 
-"accountManager.section.multi" = "Multiple Accounts";
+"accountManager.section.multi" = "Multiple accounts";
 
 
 "accountManager.switchAlert.action.confirm" = "Switch";
 
 
-"accountManager.switchAlert.title" = "Switch to account %@ ?";
+"accountManager.switchAlert.title" = "Chuyển sang tài khoản %@ ?";
 
 
-"api.rateLimit" = "The operation is too frequent, please try again in %@ minutes";
+"api.rateLimit" = "Vui lòng thử lại sau %@ phút";
 
 
-"app.shortcut.compose" = "Compose";
+"app.shortcut.compose" = "Soạn";
 
 
 "app.shortcut.search" = "Search";
 
 
-"blog.description.placeholder" = "No introduction";
+"blog.description.placeholder" = "Không giới thiệu";
 
 
 "common.add" = "Add";
@@ -90,7 +90,7 @@
 "common.next" = "Next";
 
 
-"common.notice" = "Notice";
+"common.notice" = "Thông báo";
 
 
 "common.ok" = "OK";
@@ -102,22 +102,22 @@
 "common.processing" = "Processing";
 
 
-"common.recommend" = "recommend";
+"common.recommend" = "Giới thiệu";
 
 
 "common.reply" = "Reply";
 
 
-"following.title" = "Following";
+"following.title" = "Đang theo dõi";
 
 
-"following.total" = "You are currently following %@ blogs";
+"following.total" = "Bạn hiện đang theo dõi %@ người";
 
 
-"follows.title" = "Followers";
+"follows.title" = "Người theo dõi";
 
 
-"follows.total" = "%@ followers";
+"follows.total" = "%@ người theo dõi";
 
 
 "help.title" = "Help";
@@ -138,7 +138,7 @@
 "lists.info.delete" = "Delete";
 
 
-"lists.info.deleteAlert.message" = "该操作无法撤消";
+"lists.info.deleteAlert.message" = "Hoạt động này không thể được hoàn tác";
 
 
 "lists.info.deleteAlert.title" = "Delete %@";
@@ -159,16 +159,16 @@
 "lists.info.unsubscribe" = "Unsubscribe";
 
 
-"lists.new.descriptionField.placeholder" = "Description";
+"lists.new.descriptionField.placeholder" = "Miêu tả";
 
 
-"lists.new.makePublic" = "Make it public";
+"lists.new.makePublic" = "Công khai";
 
 
-"lists.new.titleField.placeholder" = "Title";
+"lists.new.titleField.placeholder" = "Tiêu đề";
 
 
-"lists.new.warn.titleEmpty" = "Please input title";
+"lists.new.warn.titleEmpty" = "Vui lòng nhập tiêu đề";
 
 
 "login.button" = "Login via Twitter";
@@ -177,7 +177,7 @@
 "login.expired" = "Login has expired";
 
 
-"login.privateButton" = "Login in means you agreed to the service agreement";
+"login.privateButton" = "Đăng nhập nghĩa là bạn đã đồng ý với thỏa thuận dịch vụ";
 
 
 "login.retry" = "Re-login";
@@ -186,16 +186,16 @@
 "login.title" = "Login";
 
 
-"mentions.title" = "Mentions";
+"mentions.title" = "Đề cập";
 
 
-"message.title" = "Messages";
+"message.title" = "Tin nhắn";
 
 
-"messages.title" = "Messages";
+"messages.title" = "Tin nhắn";
 
 
-"password.authentication.reason" = "Need to verify your identity";
+"password.authentication.reason" = "Cần xác minh danh tính của bạn";
 
 
 "password.type.faceID.name" = "Face ID";
@@ -204,13 +204,13 @@
 "password.type.touchID.name" = "Touch ID";
 
 
-"password.unlock.description" = "Tap to unlock using %@";
+"password.unlock.description" = "Nhấn để mở khóa bằng %@";
 
 
-"password.unlock.failed.timesout" = "%@ is locked due to too much errors, Please lock iPhone and unlock using password.";
+"password.unlock.failed.timesout" = "%@ đã bị khoá, vui lòng khóa iPhone và mở khóa bằng mật khẩu";
 
 
-"password.unlock.timesout" = "Too much errors, it is recommended to use the password to unlock.";
+"password.unlock.timesout" = "Quá nhiều lần, nên sử dụng mật khẩu để mở khóa";
 
 
 "photo.action.save.failed" = "Save photo failed";
@@ -219,67 +219,67 @@
 "photo.action.save.success" = "Saved";
 
 
-"photo.action.save.title" = "Save Photo";
+"photo.action.save.title" = "Save photo";
 
 
-"photo.action.share.title" = "Share Photo";
+"photo.action.share.title" = "Share photo";
 
 
-"pincuts.edit" = "Edit Pincuts";
+"pincuts.edit" = "Edit pin";
 
 
-"pincuts.edit.markTip" = "Tap to remark pincuts";
+"pincuts.edit.markTip" = "Tap to Re-mark pin";
 
 
-"pincuts.intro" = "You can pin user and list here";
+"pincuts.intro" = "Bạn có thể ghim người dùng và liệt kê ở đây";
 
 
-"pincuts.mark.title" = "Remark";
+"pincuts.mark.title" = "Re-mark";
 
 
-"pincuts.new.mark.placeholder" = "Remark";
+"pincuts.new.mark.placeholder" = "Re-mark";
 
 
-"pincuts.new.title" = "Add pincut";
+"pincuts.new.title" = "Add pin";
 
 
 "pincuts.pin" = "Pin";
 
 
-"pincuts.title" = "Pincuts";
+"pincuts.title" = "Pin";
 
 
-"playEndBehavior.loop" = "Loop";
+"playEndBehavior.loop" = "Lặp lại";
 
 
-"playEndBehavior.next" = "Play Next（when visible）";
+"playEndBehavior.next" = "Play next (Khi nhìn thấy)";
 
 
 "playEndBehavior.stop" = "Stop";
 
 
-"player.brightness" = "Brightness";
+"player.brightness" = "độ sáng";
 
 
 "post.answer.ask" = "asking: ";
 
 
-"post.follow" = "Follow";
+"post.follow" = "Theo dõi";
 
 
-"post.follow.hud" = "Follow successed";
+"post.follow.hud" = "Follow success";
 
 
 "post.new.send" = "Tweet";
 
 
-"post.new.success" = "Post succeeded";
+"post.new.success" = "Post success";
 
 
-"post.node" = "Node";
+"post.node" = "Nút";
 
 
-"post.notSupport" = "This content is not supported, please check it on the web";
+"post.notSupport" = "Nội dung này không được hỗ trợ, vui lòng kiểm tra nó trên Web";
 
 
 "post.report" = "Report";
@@ -303,52 +303,52 @@
 "post.unfollow" = "Unfollow";
 
 
-"post.unfollow.hud" = "Unfollow successed";
+"post.unfollow.hud" = "Unfollow success";
 
 
-"premium.description" = "Upgrade to Full Version of ttte";
+"premium.description" = "Upgrade to Full Version of TTTE";
 
 
 "premium.fullVersion" = "Full Version";
 
 
-"premium.inAppPurchase.disabled" = "In-App purchase is now allowed";
+"premium.inAppPurchase.disabled" = "In-app Purchase is now allowed";
 
 
-"premium.intro.accounts" = "Multiple Accounts";
+"premium.intro.accounts" = "Multiple accounts";
 
 
-"premium.intro.accounts.description" = "Add multiple Twitter accounts to browser, post, and comment from.";
+"premium.intro.accounts.description" = "Thêm nhiều tài khoản Twitter vào Browser, Post và Comment từ";
 
 
-"premium.intro.customizable" = "Customizable";
+"premium.intro.customizable" = "Tùy chỉnh";
 
 
-"premium.intro.customizable.description" = "Control the style of your tweets, the size of your text, the spacing, and the shape of your avatar to your liking.";
+"premium.intro.customizable.description" = "Tuỳ chỉnh kiểu Tweet của bạn, kích thước văn bản, khoảng cách và hình dạng của Avatar theo ý thích của bạn";
 
 
 "premium.intro.darkMode" = "Dark Mode";
 
 
-"premium.intro.darkMode.description" = "Use fantastic dark mode, Be kind to your eyes.";
+"premium.intro.darkMode.description" = "Sử dụng chế độ tối tuyệt vời, hãy tử tế với đôi mắt của bạn";
 
 
 "premium.intro.faceID" = "Face ID & Touch ID";
 
 
-"premium.intro.faceID.description" = "Add an extra layer of security to the ttte to protect your privacy by selectively adding Touch ID or Face ID unlock.";
+"premium.intro.faceID.description" = "Thêm một lớp bảo mật bổ sung cho ttte để bảo vệ quyền riêng tư của bạn bằng cách thêm phương thức mở khoá bằng Touch ID hoặc Face ID";
 
 
-"premium.intro.submitTweets" = "Subbbmit Tweets";
+"premium.intro.submitTweets" = "Gửi Tweet";
 
 
-"premium.intro.submitTweets.description" = "Create new tweets you love, with an amazing built-in image uploader, and more.";
+"premium.intro.submitTweets.description" = "Tạo các Tweet mới mà bạn yêu thích, tải lên hình ảnh tuyệt vời và hơn thế nữa";
 
 
-"premium.success" = "Pro Version";
+"premium.success" = "PRO Version";
 
 
-"premium.title" = "Pro Version";
+"premium.title" = "PRO Version";
 
 
 "premium.update.buy" = "Upgrade at %@";
@@ -360,7 +360,7 @@
 "premiumVerification.alert.message" = "Full Version needs to be verified";
 
 
-"premiumVerification.failed.message" = "If you have purchased Full Version, you can restore it.";
+"premiumVerification.failed.message" = "If you have purchased Full Version, you can restore it";
 
 
 "premiumVerification.failed.restore" = "Restore";
@@ -369,10 +369,10 @@
 "premiumVerification.failed.title" = "Verification failed";
 
 
-"premiumVerification.succeed.title" = "Verification succeed";
+"premiumVerification.succeed.title" = "Verification success";
 
 
-"private.title" = "Service Usage Agreement";
+"private.title" = "Thỏa thuận sử dụng dịch vụ";
 
 
 "search.tab.tweet" = "Tweets";
@@ -390,7 +390,7 @@
 "setting.about.feedback.body" = "Feedback: ";
 
 
-"setting.about.feedback.failed.noAccount" = "No available email account, please check related settings.";
+"setting.about.feedback.failed.noAccount" = "Không có tài khoản Email, vui lòng kiểm tra các cài đặt liên quan";
 
 
 "setting.about.feedback.title" = "Feedback";
@@ -405,34 +405,34 @@
 "setting.darkMode" = "Dark Mode";
 
 
-"setting.other.cleanCache" = "Clean Cache";
+"setting.other.cleanCache" = "Clean cache";
 
 
-"setting.other.cleanCache.alert.clean" = "Clean";
+"setting.other.cleanCache.alert.clean" = "Xoá";
 
 
-"setting.other.cleanCache.alert.message" = "This will not delete offline files, can not be restored after cleaning.";
+"setting.other.cleanCache.alert.message" = "Điều này sẽ không xóa các tập tin ngoại tuyến, không thể được khôi phục sau khi xoá";
 
 
 "setting.other.cleanCache.alert.title" = "Clean cache(%@)";
 
 
-"setting.other.cleanCache.cleaning" = "cleaning..";
+"setting.other.cleanCache.cleaning" = "Cleaning...";
 
 
-"setting.other.cleanCache.counting" = "calculating..";
+"setting.other.cleanCache.counting" = "Đang tính toán...";
 
 
 "setting.password.time.always" = "Always";
 
 
-"setting.password.time.minutes" = "%@ minutes later";
+"setting.password.time.minutes" = "%@ phút sau";
 
 
-"setting.password.time.title" = "Auto-Lock";
+"setting.password.time.title" = "Tự động khoá";
 
 
-"setting.photos.origin" = "Load origin photos when preview";
+"setting.photos.origin" = "Ảnh gốc khi Preview";
 
 
 "setting.photos.origin.always" = "Always";
@@ -441,70 +441,70 @@
 "setting.photos.origin.never" = "Never";
 
 
-"setting.photos.origin.wifi" = "Wi-Fi";
+"setting.photos.origin.wifi" = "WiFi";
 
 
-"setting.player.autoPlay" = "Auto play videos in the list";
+"setting.player.autoPlay" = "Tự động phát Video trong danh sách";
 
 
-"setting.player.endBehavior" = "Behavior when video is over";
+"setting.player.endBehavior" = "Tuỳ chọn khi video kết thúc";
 
 
-"setting.player.endBehavior.selectorTitle" = "Choose the behavior when the video is end";
+"setting.player.endBehavior.selectorTitle" = "Chọn một tuỳ chọn khi Video kết thúc";
 
 
-"setting.player.mute" = "Mute player in the list";
+"setting.player.mute" = "Tắt tiếng người chơi trong danh sách";
 
 
 "setting.presenting.avatar" = "Avatar";
 
 
-"setting.presenting.content.text" = " “Open your mouth wide, The universal sigh, And the ocean blooms, It's what keeps me alive.";
+"setting.presenting.content.text" = " “Nothing Special";
 
 
 "setting.presenting.fontSize" = "Font size";
 
 
-"setting.presenting.lineSpacing" = "Line Spacing";
+"setting.presenting.lineSpacing" = "Khoảng cách dòng";
 
 
-"setting.presenting.preview" = "Previewing";
+"setting.presenting.preview" = "Previewing...";
 
 
-"setting.presenting.title" = "Presenting Setting";
+"setting.presenting.title" = "Cài đặt hiển thị";
 
 
-"setting.presenting.useBoldFont" = "Bold font";
+"setting.presenting.useBoldFont" = "Chữ đậm";
 
 
-"setting.presenting.useRoundAvatar" = "Round avatar";
+"setting.presenting.useRoundAvatar" = "Khung tròn Avatar";
 
 
-"setting.private.open" = "Turn on %@ authentication";
+"setting.private.open" = "Bật %@ xác thực";
 
 
-"setting.private.time" = "Auto-Lock";
+"setting.private.time" = "Tự động khoá";
 
 
-"setting.reading.useReadingModeForWeb" = "Use reading mode for web";
+"setting.reading.useReadingModeForWeb" = "Sử dụng chế độ đọc trang Web";
 
 
-"setting.readingMode" = "Reading Mode";
+"setting.readingMode" = "Chế độ đọc";
 
 
-"setting.readingMode.positive" = "Positive";
+"setting.readingMode.positive" = "Trật tự";
 
 
-"setting.readingMode.reverse" = "Reverse";
+"setting.readingMode.reverse" = "Đảo ngược";
 
 
-"setting.readingMode.selectTitle" = "Select the reading mode";
+"setting.readingMode.selectTitle" = "Chọn chế độ đọc";
 
 
 "setting.section.about" = "About";
 
 
-"setting.section.other" = "Other";
+"setting.section.other" = "Khác";
 
 
 "setting.section.photo" = "Photos";
@@ -513,13 +513,13 @@
 "setting.section.player" = "Player";
 
 
-"setting.section.presenting" = "Presenting";
+"setting.section.presenting" = "Trình bày";
 
 
 "setting.section.private" = "Private";
 
 
-"setting.section.reading" = "Reading";
+"setting.section.reading" = "Reading...";
 
 
 "setting.showSensitiveContent" = "Displays tweets that may contain sensitive content";
