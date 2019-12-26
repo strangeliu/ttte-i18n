@@ -1,0 +1,756 @@
+
+
+"URLScheme.compose" = "Compose";
+
+
+"URLScheme.openttte" = "Open ttte";
+
+
+"URLScheme.search" = "Search";
+
+
+"URLScheme.user" = "View user's profile";
+
+
+"URLScheme.userFollowings" = "View user's followings";
+
+
+"URLScheme.userFollows" = "View user's followers";
+
+
+"URLScheme.userLists" = "View user's lists";
+
+
+"URLScheme.userTweets" = "View user's tweets";
+
+
+"about.licensence" = "Open Source License";
+
+
+"about.rate" = "Rate";
+
+
+"account.manage.logout" = "Logout";
+
+
+"account.manage.logout.alert.title" = "Logout the current account?";
+
+
+"account.manage.title" = "Account Management";
+
+
+"accountManager.add" = "Add Account";
+
+
+"accountManager.delete" = "Delete";
+
+
+"accountManager.deleteAlert.action.confirm" = "Delete";
+
+
+"accountManager.deleteAlert.title" = "Delete Account %@ ?";
+
+
+"accountManager.section.multi" = "Multiple Accounts";
+
+
+"accountManager.switchAlert.action.confirm" = "Switch";
+
+
+"accountManager.switchAlert.title" = "Switch to account %@ ?";
+
+
+"api.rateLimit" = "The operation is too frequent, please try again in %@ minutes";
+
+
+"app.shortcut.compose" = "Compose";
+
+
+"app.shortcut.search" = "Search";
+
+
+"blog.description.placeholder" = "No introduction";
+
+
+"common.add" = "Add";
+
+
+"common.cancel" = "Cancel";
+
+
+"common.copy" = "Copy";
+
+
+"common.delete" = "Delete";
+
+
+"common.done" = "Done";
+
+
+"common.next" = "Next";
+
+
+"common.notice" = "Notice";
+
+
+"common.ok" = "OK";
+
+
+"common.participle" = "Participle";
+
+
+"common.processing" = "Processing";
+
+
+"common.recommend" = "recommend";
+
+
+"common.reply" = "Reply";
+
+
+"following.title" = "Following";
+
+
+"following.total" = "You are currently following %@ blogs";
+
+
+"follows.title" = "Followers";
+
+
+"follows.total" = "%@ followers";
+
+
+"help.title" = "Help";
+
+
+"likes.title" = "Likes";
+
+
+"list.empty" = "No data";
+
+
+"list.retry" = "Retry";
+
+
+"lists.create" = "Create";
+
+
+"lists.info.delete" = "Delete";
+
+
+"lists.info.deleteAlert.message" = "该操作无法撤消";
+
+
+"lists.info.deleteAlert.title" = "Delete %@";
+
+
+"lists.info.members" = "Members";
+
+
+"lists.info.mode" = "Mode";
+
+
+"lists.info.subscribe" = "Subscribe";
+
+
+"lists.info.subscribers" = "Subscribers";
+
+
+"lists.info.unsubscribe" = "Unsubscribe";
+
+
+"lists.new.descriptionField.placeholder" = "Description";
+
+
+"lists.new.makePublic" = "Make it public";
+
+
+"lists.new.titleField.placeholder" = "Title";
+
+
+"lists.new.warn.titleEmpty" = "Please input title";
+
+
+"login.button" = "Login via Twitter";
+
+
+"login.expired" = "Login has expired";
+
+
+"login.privateButton" = "Login in means you agreed to the service agreement";
+
+
+"login.retry" = "Re-login";
+
+
+"login.title" = "Login";
+
+
+"mentions.title" = "Mentions";
+
+
+"message.title" = "Messages";
+
+
+"messages.title" = "Messages";
+
+
+"password.authentication.reason" = "Need to verify your identity";
+
+
+"password.type.faceID.name" = "Face ID";
+
+
+"password.type.touchID.name" = "Touch ID";
+
+
+"password.unlock.description" = "Tap to unlock using %@";
+
+
+"password.unlock.failed.timesout" = "%@ is locked due to too much errors, Please lock iPhone and unlock using password.";
+
+
+"password.unlock.timesout" = "Too much errors, it is recommended to use the password to unlock.";
+
+
+"photo.action.save.failed" = "Save photo failed";
+
+
+"photo.action.save.success" = "Saved";
+
+
+"photo.action.save.title" = "Save Photo";
+
+
+"photo.action.share.title" = "Share Photo";
+
+
+"pincuts.edit" = "Edit Pincuts";
+
+
+"pincuts.edit.markTip" = "Tap to remark pincuts";
+
+
+"pincuts.intro" = "You can pin user and list here";
+
+
+"pincuts.mark.title" = "Remark";
+
+
+"pincuts.new.mark.placeholder" = "Remark";
+
+
+"pincuts.new.title" = "Add pincut";
+
+
+"pincuts.pin" = "Pin";
+
+
+"pincuts.title" = "Pincuts";
+
+
+"playEndBehavior.loop" = "Loop";
+
+
+"playEndBehavior.next" = "Play Next（when visible）";
+
+
+"playEndBehavior.stop" = "Stop";
+
+
+"player.brightness" = "Brightness";
+
+
+"post.answer.ask" = "asking: ";
+
+
+"post.follow" = "Follow";
+
+
+"post.follow.hud" = "Follow successed";
+
+
+"post.new.send" = "Tweet";
+
+
+"post.new.success" = "Post succeeded";
+
+
+"post.node" = "Node";
+
+
+"post.notSupport" = "This content is not supported, please check it on the web";
+
+
+"post.report" = "Report";
+
+
+"post.search.placeholder" = "Search";
+
+
+"post.type.all" = "All";
+
+
+"post.type.photo" = "Photos";
+
+
+"post.type.text" = "Text";
+
+
+"post.type.video" = "Videos";
+
+
+"post.unfollow" = "Unfollow";
+
+
+"post.unfollow.hud" = "Unfollow successed";
+
+
+"premium.description" = "Upgrade to Full Version of ttte";
+
+
+"premium.fullVersion" = "Full Version";
+
+
+"premium.inAppPurchase.disabled" = "In-App purchase is now allowed";
+
+
+"premium.intro.accounts" = "Multiple Accounts";
+
+
+"premium.intro.accounts.description" = "Add multiple Twitter accounts to browser, post, and comment from.";
+
+
+"premium.intro.customizable" = "Customizable";
+
+
+"premium.intro.customizable.description" = "Control the style of your tweets, the size of your text, the spacing, and the shape of your avatar to your liking.";
+
+
+"premium.intro.darkMode" = "Dark Mode";
+
+
+"premium.intro.darkMode.description" = "Use fantastic dark mode, Be kind to your eyes.";
+
+
+"premium.intro.faceID" = "Face ID & Touch ID";
+
+
+"premium.intro.faceID.description" = "Add an extra layer of security to the ttte to protect your privacy by selectively adding Touch ID or Face ID unlock.";
+
+
+"premium.intro.submitTweets" = "Subbbmit Tweets";
+
+
+"premium.intro.submitTweets.description" = "Create new tweets you love, with an amazing built-in image uploader, and more.";
+
+
+"premium.success" = "Pro Version";
+
+
+"premium.title" = "Pro Version";
+
+
+"premium.update.buy" = "Upgrade at %@";
+
+
+"premium.update.restore" = "Restore";
+
+
+"premiumVerification.alert.message" = "Full Version needs to be verified";
+
+
+"premiumVerification.failed.message" = "If you have purchased Full Version, you can restore it.";
+
+
+"premiumVerification.failed.restore" = "Restore";
+
+
+"premiumVerification.failed.title" = "Verification failed";
+
+
+"premiumVerification.succeed.title" = "Verification succeed";
+
+
+"private.title" = "Service Usage Agreement";
+
+
+"search.tab.tweet" = "Tweets";
+
+
+"search.tab.user" = "Users";
+
+
+"setting.about.about" = "About";
+
+
+"setting.about.feedback" = "Feedback";
+
+
+"setting.about.feedback.body" = "Feedback: ";
+
+
+"setting.about.feedback.failed.noAccount" = "No available email account, please check related settings.";
+
+
+"setting.about.feedback.title" = "Feedback";
+
+
+"setting.about.rate" = "Rate ttte";
+
+
+"setting.about.support" = "Support ttte";
+
+
+"setting.darkMode" = "Dark Mode";
+
+
+"setting.other.cleanCache" = "Clean Cache";
+
+
+"setting.other.cleanCache.alert.clean" = "Clean";
+
+
+"setting.other.cleanCache.alert.message" = "This will not delete offline files, can not be restored after cleaning.";
+
+
+"setting.other.cleanCache.alert.title" = "Clean cache(%@)";
+
+
+"setting.other.cleanCache.cleaning" = "cleaning..";
+
+
+"setting.other.cleanCache.counting" = "calculating..";
+
+
+"setting.password.time.always" = "Always";
+
+
+"setting.password.time.minutes" = "%@ minutes later";
+
+
+"setting.password.time.title" = "Auto-Lock";
+
+
+"setting.photos.origin" = "Load origin photos when preview";
+
+
+"setting.photos.origin.always" = "Always";
+
+
+"setting.photos.origin.never" = "Never";
+
+
+"setting.photos.origin.wifi" = "Wi-Fi";
+
+
+"setting.player.autoPlay" = "Auto play videos in the list";
+
+
+"setting.player.endBehavior" = "Behavior when video is over";
+
+
+"setting.player.endBehavior.selectorTitle" = "Choose the behavior when the video is end";
+
+
+"setting.player.mute" = "Mute player in the list";
+
+
+"setting.presenting.avatar" = "Avatar";
+
+
+"setting.presenting.content.text" = " “Open your mouth wide, The universal sigh, And the ocean blooms, It's what keeps me alive.";
+
+
+"setting.presenting.fontSize" = "Font size";
+
+
+"setting.presenting.lineSpacing" = "Line Spacing";
+
+
+"setting.presenting.preview" = "Previewing";
+
+
+"setting.presenting.title" = "Presenting Setting";
+
+
+"setting.presenting.useBoldFont" = "Bold font";
+
+
+"setting.presenting.useRoundAvatar" = "Round avatar";
+
+
+"setting.private.open" = "Turn on %@ authentication";
+
+
+"setting.private.time" = "Auto-Lock";
+
+
+"setting.reading.useReadingModeForWeb" = "Use reading mode for web";
+
+
+"setting.readingMode" = "Reading Mode";
+
+
+"setting.readingMode.positive" = "Positive";
+
+
+"setting.readingMode.reverse" = "Reverse";
+
+
+"setting.readingMode.selectTitle" = "Select the reading mode";
+
+
+"setting.section.about" = "About";
+
+
+"setting.section.other" = "Other";
+
+
+"setting.section.photo" = "Photos";
+
+
+"setting.section.player" = "Player";
+
+
+"setting.section.presenting" = "Presenting";
+
+
+"setting.section.private" = "Private";
+
+
+"setting.section.reading" = "Reading";
+
+
+"setting.showSensitiveContent" = "Displays tweets that may contain sensitive content";
+
+
+"setting.tfFeedback" = "Feedback for Testflight";
+
+
+"setting.theme" = "Theme";
+
+
+"setting.theme.useDarkX" = "Use DarkX for dark mode";
+
+
+"setting.title" = "Setting";
+
+
+"setting.translate.activeAfterRelaunch" = "This setting takes effect after restarting";
+
+
+"setting.translate.engine" = "Translation engine";
+
+
+"setting.translate.languageNeedTranslate" = "Languages need be translated";
+
+
+"setting.translate.section.engine" = "Engine";
+
+
+"setting.translate.section.language" = "Language";
+
+
+"setting.translate.targetLanguage" = "Target Language";
+
+
+"setting.translate.title" = "Translation Setting";
+
+
+"support.followAuthor" = "Follow Author";
+
+
+"support.others" = "My Apps";
+
+
+"support.rate" = "Rate";
+
+
+"support.title" = "Support ttte";
+
+
+"support.viewMore" = "View More";
+
+
+"tabs.notifications" = "Notifications";
+
+
+"text.action.share" = "Share";
+
+
+"tips.ok" = "Got it";
+
+
+"tips.player.close" = " Swipe horizontal to adjust the playback, Swipt down to close.";
+
+
+"tips.sharePhoto" = " Long press to share and save pictures.";
+
+
+"title" = "ttte";
+
+
+"tranlateService.plan.yearly.name" = "Subscribe Yearly";
+
+
+"translateService.engine.bing.description" = "Translation services provided by Microsoft";
+
+
+"translateService.engine.bing.name" = "Bing translation services";
+
+
+"translateService.engine.google.description" = "Translation services provided by the Google neural engine project";
+
+
+"translateService.engine.google.name" = "Google translation services(*)";
+
+
+"translateService.engine.google2.description" = "Translation services provided by the Google neural engine project";
+
+
+"translateService.engine.google2.name" = "Google translation engine";
+
+
+"translateService.plan.monthly.name" = "Subscribe monthly";
+
+
+"translateService.private" = "The membership fee is charged to your App Store account at confirmation of purchase. The subscription is automatically renews and your account is charged unless auto-renew is turned off at least 24 hours before the end of the current subscription period. The membership is link with your iCloud account, and available on all of your iOS devices that sign in to same iCloud account. You may Migrate Membership in case you switch to a new iCloud account after subscription. If you have any questions, please Contact Us.";
+
+
+"translateService.section.options" = "Options";
+
+
+"translateService.section.terms" = "Terms";
+
+
+"translateService.subscibe.periodUnit.yearly" = "Per Year";
+
+
+"translateService.subscribe.buy" = "Subscribe Now";
+
+
+"translateService.subscribe.description" = "Use paid translation services, including Google Translate, Microsoft Bing Translator, etc.";
+
+
+"translateService.subscribe.expired" = "Current subscription has expired at %@";
+
+
+"translateService.subscribe.notPurchased" = "No subscription currently";
+
+
+"translateService.subscribe.periodUnit.monthly" = "Per Month";
+
+
+"translateService.subscribe.purchased" = "Current subscription is valid until %@";
+
+
+"translateService.subscribe.verification.failed" = "Verification failed";
+
+
+"translateService.subscribeState.sectionTitle" = "Subscription";
+
+
+"translateService.subscribeState.title" = "Subscription information";
+
+
+"translateService.termsAndPolicy" = "Terms and Privacy Policy";
+
+
+"translateService.title" = "Tranlsate Service";
+
+
+"tweet.action.alert.title" = "Actions";
+
+
+"tweet.action.retweet" = "Retweet";
+
+
+"tweet.action.retweet.cancel" = "Cancel retweet";
+
+
+"tweet.action.reweetWithComment" = "Retweet with comment";
+
+
+"tweet.action.shareAsImage" = "Share as image";
+
+
+"tweet.content.loadQuoted" = "Show quoted tweet";
+
+
+"tweet.content.retweeted" = "Retweeted";
+
+
+"tweet.content.sensitive.description" = "You can view it temporarily or change your Privacy and safety account settings";
+
+
+"tweet.content.sensitive.exitViewTemporarily" = "Exit temporarily view mode";
+
+
+"tweet.content.sensitive.notice" = "This Tweet may include potentially sensitive content";
+
+
+"tweet.content.sensitive.setting" = "Privacy and safety account settings";
+
+
+"tweet.content.sensitive.viewTemporarily" = "View it temporarily";
+
+
+"tweet.content.translateProvider" = "Translated by ";
+
+
+"tweet.content.translateProvider.token" = "Translated by";
+
+
+"user.action.addToList" = "Add to List";
+
+
+"user.action.addToList.success" = "Added";
+
+
+"user.following" = "Followings";
+
+
+"user.follows" = "Followers";
+
+
+"user.profile.actions.copyTtteLink" = "Copy ttte link";
+
+
+"user.profile.actions.copyTwitterLink" = "Copy Twitter link";
+
+
+"user.profile.actions.title" = "Actions";
+
+
+"user.profile.favourites" = "Favourites";
+
+
+"user.profile.follow" = "Follow";
+
+
+"user.profile.following" = "Following";
+
+
+"user.profile.lists" = "Lists";
+
+
+"user.profile.section.recentTweets" = "RECENT TWEET";
+
+
+"user.profile.section.tweets" = "TWEETS";
+
+
+"user.profile.tweets" = "Tweets";
+
+
+"user.profile.tweetsAndReplies" = "Tweets & replies";
+
+
+"user.title" = "Profile";
+
+
+"user.tweets" = "Tweets";
+
+
+"video.action.save" = "Save to album";
