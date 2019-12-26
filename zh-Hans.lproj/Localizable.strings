@@ -1,0 +1,756 @@
+
+
+"URLScheme.compose" = "发表推文";
+
+
+"URLScheme.openttte" = "打开 ttte";
+
+
+"URLScheme.search" = "搜索";
+
+
+"URLScheme.user" = "查看用户信息";
+
+
+"URLScheme.userFollowings" = "查看用户关注列表";
+
+
+"URLScheme.userFollows" = "查看用户关注者列表";
+
+
+"URLScheme.userLists" = "查看用户List列表";
+
+
+"URLScheme.userTweets" = "查看用户推文";
+
+
+"about.licensence" = "开源许可";
+
+
+"about.rate" = "去评分";
+
+
+"account.manage.logout" = "登出";
+
+
+"account.manage.logout.alert.title" = "登出当前帐号？";
+
+
+"account.manage.title" = "帐号管理";
+
+
+"accountManager.add" = "添加帐号";
+
+
+"accountManager.delete" = "删除";
+
+
+"accountManager.deleteAlert.action.confirm" = "删除";
+
+
+"accountManager.deleteAlert.title" = "删除帐号 %@ ?";
+
+
+"accountManager.section.multi" = "多帐号";
+
+
+"accountManager.switchAlert.action.confirm" = "切换";
+
+
+"accountManager.switchAlert.title" = "切换到帐号 %@ ?";
+
+
+"api.rateLimit" = "操作太频繁，请 %@ 分钟后重试";
+
+
+"app.shortcut.compose" = "新推文";
+
+
+"app.shortcut.search" = "搜索";
+
+
+"blog.description.placeholder" = "暂无简介";
+
+
+"common.add" = "添加";
+
+
+"common.cancel" = "取消";
+
+
+"common.copy" = "复制";
+
+
+"common.delete" = "删除";
+
+
+"common.done" = "完成";
+
+
+"common.next" = "继续";
+
+
+"common.notice" = "提示";
+
+
+"common.ok" = "确定";
+
+
+"common.participle" = "分词";
+
+
+"common.processing" = "正在处理";
+
+
+"common.recommend" = "推荐";
+
+
+"common.reply" = "回复";
+
+
+"following.title" = "关注中";
+
+
+"following.total" = "你正在关注%@个博客";
+
+
+"follows.title" = "关注者";
+
+
+"follows.total" = "有%@个人正在关注你";
+
+
+"help.title" = "帮助";
+
+
+"likes.title" = "喜欢";
+
+
+"list.empty" = "暂无数据";
+
+
+"list.retry" = "点击重试";
+
+
+"lists.create" = "创建";
+
+
+"lists.info.delete" = "删除";
+
+
+"lists.info.deleteAlert.message" = "This operation cannot be undone";
+
+
+"lists.info.deleteAlert.title" = "删除 %@";
+
+
+"lists.info.members" = "成员";
+
+
+"lists.info.mode" = "模式";
+
+
+"lists.info.subscribe" = "订阅";
+
+
+"lists.info.subscribers" = "订阅用户";
+
+
+"lists.info.unsubscribe" = "取消订阅";
+
+
+"lists.new.descriptionField.placeholder" = "描述";
+
+
+"lists.new.makePublic" = "设置为公开";
+
+
+"lists.new.titleField.placeholder" = "名称";
+
+
+"lists.new.warn.titleEmpty" = "请输入标题";
+
+
+"login.button" = "使用Twitter登录";
+
+
+"login.expired" = "登录已过期";
+
+
+"login.privateButton" = "登录即代表你已同意服务协议";
+
+
+"login.retry" = "重新登录";
+
+
+"login.title" = "登录";
+
+
+"mentions.title" = "提到我的";
+
+
+"message.title" = "提醒";
+
+
+"messages.title" = "消息";
+
+
+"password.authentication.reason" = "需要验证您的指纹来确认您的身份信息";
+
+
+"password.type.faceID.name" = "面容ID";
+
+
+"password.type.touchID.name" = "指纹ID";
+
+
+"password.unlock.description" = "点击使用%@解锁";
+
+
+"password.unlock.failed.timesout" = "由于错误次数过多，%@已锁定，请锁定iPhone使用密码解锁后再尝试。";
+
+
+"password.unlock.timesout" = "错误次数过多，建议使用密码解锁";
+
+
+"photo.action.save.failed" = "保存失败";
+
+
+"photo.action.save.success" = "保存成功";
+
+
+"photo.action.save.title" = "保存图片";
+
+
+"photo.action.share.title" = "分享图片";
+
+
+"pincuts.edit" = "编辑 Pincuts";
+
+
+"pincuts.edit.markTip" = "点击可以修改 Pincut 的备注";
+
+
+"pincuts.intro" = "你可以固定用户和 List 到这里以方便浏览";
+
+
+"pincuts.mark.title" = "备注";
+
+
+"pincuts.new.mark.placeholder" = "备注";
+
+
+"pincuts.new.title" = "添加 Pincut";
+
+
+"pincuts.pin" = "Pin";
+
+
+"pincuts.title" = "Pincuts";
+
+
+"playEndBehavior.loop" = "循环播放";
+
+
+"playEndBehavior.next" = "播放下一个（可见时）";
+
+
+"playEndBehavior.stop" = "停止播放";
+
+
+"player.brightness" = "亮度";
+
+
+"post.answer.ask" = "提问：";
+
+
+"post.follow" = "关注";
+
+
+"post.follow.hud" = "已关注";
+
+
+"post.new.send" = "发起";
+
+
+"post.new.success" = "发表成功";
+
+
+"post.node" = "热度";
+
+
+"post.notSupport" = "暂时不支持该内容显示，请在Web上查看";
+
+
+"post.report" = "举报";
+
+
+"post.search.placeholder" = "搜索";
+
+
+"post.type.all" = "全部";
+
+
+"post.type.photo" = "图片";
+
+
+"post.type.text" = "文本";
+
+
+"post.type.video" = "视频";
+
+
+"post.unfollow" = "取消关注";
+
+
+"post.unfollow.hud" = "已取消关注";
+
+
+"premium.description" = "你当前正在试用ttte，购买完整版以使用全部功能。";
+
+
+"premium.fullVersion" = "解锁完整版";
+
+
+"premium.inAppPurchase.disabled" = "不允许程序内付费";
+
+
+"premium.intro.accounts" = "多帐号管理";
+
+
+"premium.intro.accounts.description" = "你可以添加多个Twitter帐户，并随时切换帐号来浏览推文。";
+
+
+"premium.intro.customizable" = "个性化显示";
+
+
+"premium.intro.customizable.description" = "随心所欲的控制推文的显示样式，文字大小、间距、头像形状，调到你喜欢。";
+
+
+"premium.intro.darkMode" = "夜间模式";
+
+
+"premium.intro.darkMode.description" = "使用奇妙的夜间模式，对你的眼睛好一点。";
+
+
+"premium.intro.faceID" = "面容ID & 指纹ID";
+
+
+"premium.intro.faceID.description" = "通过选择性地添加指纹锁或面容锁，为ttte添加额外的安全层，为你的隐私保驾护航。";
+
+
+"premium.intro.submitTweets" = "新的推文";
+
+
+"premium.intro.submitTweets.description" = "发起新的推文，及回复推文，可以使用令人惊叹的多媒体选择器及上传工具。";
+
+
+"premium.success" = "已升级到专业版";
+
+
+"premium.title" = "升级到专业版";
+
+
+"premium.update.buy" = "以 %@ 的价格升级";
+
+
+"premium.update.restore" = "恢复购买";
+
+
+"premiumVerification.alert.message" = "需要对完整版进行验证";
+
+
+"premiumVerification.failed.message" = "如果你已经购买完整版，现在可以进行恢复";
+
+
+"premiumVerification.failed.restore" = "恢复购买";
+
+
+"premiumVerification.failed.title" = "验证失败";
+
+
+"premiumVerification.succeed.title" = "验证成功";
+
+
+"private.title" = "《服务使用协议》";
+
+
+"search.tab.tweet" = "推文";
+
+
+"search.tab.user" = "用户";
+
+
+"setting.about.about" = "关于";
+
+
+"setting.about.feedback" = "反馈建议";
+
+
+"setting.about.feedback.body" = "建议反馈: ";
+
+
+"setting.about.feedback.failed.noAccount" = "没有可用的邮箱帐户，请检查相关设置。";
+
+
+"setting.about.feedback.title" = "建议反馈";
+
+
+"setting.about.rate" = "给ttte好评";
+
+
+"setting.about.support" = "支持ttte";
+
+
+"setting.darkMode" = "夜间模式";
+
+
+"setting.other.cleanCache" = "清理缓存";
+
+
+"setting.other.cleanCache.alert.clean" = "清理";
+
+
+"setting.other.cleanCache.alert.message" = "不包括已离线的文件，清理后将无法恢复。";
+
+
+"setting.other.cleanCache.alert.title" = "清理缓存(%@)";
+
+
+"setting.other.cleanCache.cleaning" = "正在清理..";
+
+
+"setting.other.cleanCache.counting" = "计算中..";
+
+
+"setting.password.time.always" = "总是";
+
+
+"setting.password.time.minutes" = "%@分钟后";
+
+
+"setting.password.time.title" = "设置验证时间";
+
+
+"setting.photos.origin" = "预览时自动加载原图";
+
+
+"setting.photos.origin.always" = "始终";
+
+
+"setting.photos.origin.never" = "关闭";
+
+
+"setting.photos.origin.wifi" = "使用Wi-Fi时";
+
+
+"setting.player.autoPlay" = "列表中自动播放视频";
+
+
+"setting.player.endBehavior" = "视频播放完时";
+
+
+"setting.player.endBehavior.selectorTitle" = "选择视频播放完时行为";
+
+
+"setting.player.mute" = "列表中默认播放声音";
+
+
+"setting.presenting.avatar" = "头像样式";
+
+
+"setting.presenting.content.text" = "张大你的嘴，那万物之叹息，那海洋之怒放，让我得以活在这珍贵的人世间。";
+
+
+"setting.presenting.fontSize" = "字体大小";
+
+
+"setting.presenting.lineSpacing" = "文字间距";
+
+
+"setting.presenting.preview" = "样式预览";
+
+
+"setting.presenting.title" = "推文样式";
+
+
+"setting.presenting.useBoldFont" = "使用粗体";
+
+
+"setting.presenting.useRoundAvatar" = "使用圆形头像";
+
+
+"setting.private.open" = "开启%@验证";
+
+
+"setting.private.time" = "启用时间";
+
+
+"setting.reading.useReadingModeForWeb" = "使用阅读模式打开网页";
+
+
+"setting.readingMode" = "阅读模式";
+
+
+"setting.readingMode.positive" = "正序阅读";
+
+
+"setting.readingMode.reverse" = "倒序阅读";
+
+
+"setting.readingMode.selectTitle" = "请选择阅读模式";
+
+
+"setting.section.about" = "关于";
+
+
+"setting.section.other" = "其他";
+
+
+"setting.section.photo" = "看图设置";
+
+
+"setting.section.player" = "播放设置";
+
+
+"setting.section.presenting" = "显示设置";
+
+
+"setting.section.private" = "隐私设置";
+
+
+"setting.section.reading" = "阅读设置";
+
+
+"setting.showSensitiveContent" = "显示可能包含敏感内容的推文";
+
+
+"setting.tfFeedback" = "TF测试反馈";
+
+
+"setting.theme" = "主题";
+
+
+"setting.theme.useDarkX" = "使用DarkX作为默认夜间主题";
+
+
+"setting.title" = "设置";
+
+
+"setting.translate.activeAfterRelaunch" = "该设置重新启动后生效";
+
+
+"setting.translate.engine" = "翻译引擎";
+
+
+"setting.translate.languageNeedTranslate" = "需要翻译的语言";
+
+
+"setting.translate.section.engine" = "引擎";
+
+
+"setting.translate.section.language" = "语言";
+
+
+"setting.translate.targetLanguage" = "目标语言";
+
+
+"setting.translate.title" = "翻译设置";
+
+
+"support.followAuthor" = "关注作者";
+
+
+"support.others" = "我的作品";
+
+
+"support.rate" = "评分";
+
+
+"support.title" = "支持 ttte";
+
+
+"support.viewMore" = "查看更多";
+
+
+"tabs.notifications" = "通知";
+
+
+"text.action.share" = "分享";
+
+
+"tips.ok" = "知道了";
+
+
+"tips.player.close" = " 左右滑动调节播放进度，\n 向下滑动以退出播放器。";
+
+
+"tips.sharePhoto" = " 长按可以分享和存储图片，\n 在列表里长按也可以哦。";
+
+
+"title" = "ttte";
+
+
+"tranlateService.plan.yearly.name" = "按年订阅";
+
+
+"translateService.engine.bing.description" = "由微软提供的翻译服务";
+
+
+"translateService.engine.bing.name" = "必应翻译";
+
+
+"translateService.engine.google.description" = "由谷歌神经引擎项目提供的翻译服务";
+
+
+"translateService.engine.google.name" = "谷歌翻译(*)";
+
+
+"translateService.engine.google2.description" = "由谷歌神经引擎项目提供的翻译服务";
+
+
+"translateService.engine.google2.name" = "谷歌翻译";
+
+
+"translateService.plan.monthly.name" = "按月订阅";
+
+
+"translateService.private" = "在确认购买时，会员费会被记入你的 App Store 账户。并且订阅会在订阅期将要结束时自动更新，除非在当前订阅期结束前至少24小时内关闭自动更新，否则您的帐户将被收费。会员资格与你的 iCloud 账户相连，并且可以在所有登陆 iCloud 账户的 iOS 设备上使用。如果您在订阅后切换到新的 iCloud 帐户，您可以迁移成员。如果您有任何问题，请与我们联系。";
+
+
+"translateService.section.options" = "选项";
+
+
+"translateService.section.terms" = "服务条款";
+
+
+"translateService.subscibe.periodUnit.yearly" = "每年";
+
+
+"translateService.subscribe.buy" = "开始订阅";
+
+
+"translateService.subscribe.description" = "使用付费的翻译服务，包括谷歌翻译、微软必应翻译等";
+
+
+"translateService.subscribe.expired" = "当前的订阅已在 %@ 过期";
+
+
+"translateService.subscribe.notPurchased" = "当前没有订阅";
+
+
+"translateService.subscribe.periodUnit.monthly" = "每月";
+
+
+"translateService.subscribe.purchased" = "当前订阅的有效期至 %@";
+
+
+"translateService.subscribe.verification.failed" = "验证不通过";
+
+
+"translateService.subscribeState.sectionTitle" = "订阅";
+
+
+"translateService.subscribeState.title" = "订阅信息";
+
+
+"translateService.termsAndPolicy" = "条款及隐私政策";
+
+
+"translateService.title" = "翻译服务";
+
+
+"tweet.action.alert.title" = "请选择操作";
+
+
+"tweet.action.retweet" = "转推";
+
+
+"tweet.action.retweet.cancel" = "取消转推";
+
+
+"tweet.action.reweetWithComment" = "带评论转推";
+
+
+"tweet.action.shareAsImage" = "生成图片分享";
+
+
+"tweet.content.loadQuoted" = "显示引用的推文";
+
+
+"tweet.content.retweeted" = "转发推文";
+
+
+"tweet.content.sensitive.description" = "你可以选择临时查看或者更改你的隐私与安全设置";
+
+
+"tweet.content.sensitive.exitViewTemporarily" = "退出临时查看";
+
+
+"tweet.content.sensitive.notice" = "此推文可能存在敏感的内容";
+
+
+"tweet.content.sensitive.setting" = "更改隐私与安全设置";
+
+
+"tweet.content.sensitive.viewTemporarily" = "临时查看";
+
+
+"tweet.content.translateProvider" = "翻译内容由  提供";
+
+
+"tweet.content.translateProvider.token" = "翻译内容由";
+
+
+"user.action.addToList" = "添加到 List";
+
+
+"user.action.addToList.success" = "添加成功";
+
+
+"user.following" = "关注";
+
+
+"user.follows" = "关注者";
+
+
+"user.profile.actions.copyTtteLink" = "复制 ttte 链接";
+
+
+"user.profile.actions.copyTwitterLink" = "复制推特链接";
+
+
+"user.profile.actions.title" = "操作";
+
+
+"user.profile.favourites" = "喜欢的推文";
+
+
+"user.profile.follow" = "关注";
+
+
+"user.profile.following" = "已关注";
+
+
+"user.profile.lists" = "Lists";
+
+
+"user.profile.section.recentTweets" = "最近的推文";
+
+
+"user.profile.section.tweets" = "推文";
+
+
+"user.profile.tweets" = "推文";
+
+
+"user.profile.tweetsAndReplies" = "推文及回复";
+
+
+"user.title" = "我";
+
+
+"user.tweets" = "推文";
+
+
+"video.action.save" = "保存到相册";

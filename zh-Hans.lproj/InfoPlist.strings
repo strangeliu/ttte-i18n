@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  ttte
+
+  Created by Liu on 2018/3/10.
+  Copyright © 2018年 grace. All rights reserved.
+*/
+
+{
+    NSPhotoLibraryUsageDescription = "ttte 需要保存图片到您的相册";
+    NSPhotoLibraryAddUsageDescription = "ttte 需要保存图片到您的相册";
+    NSCameraUsageDescription = "ttte 需要您的同意才能访问相机";
+    NSFaceIDUsageDescription = "ttte 需要使用Face ID来登录你的帐号";
+    NSLocationWhenInUseUsageDescription = "ttte 需要使用你的定位来添加位置信息";
+}
