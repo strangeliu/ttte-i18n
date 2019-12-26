@@ -1,30 +1,30 @@
 
 
-"URLScheme.compose" = "Compose";
+"URLScheme.compose" = "Soạn";
 
 
-"URLScheme.openttte" = "Open ttte";
+"URLScheme.openttte" = "Open TTTE";
 
 
 "URLScheme.search" = "Search";
 
 
-"URLScheme.user" = "View user's profile";
+"URLScheme.user" = "Xem hồ sơ người dùng";
 
 
-"URLScheme.userFollowings" = "View user's followings";
+"URLScheme.userFollowings" = "Xem theo dõi của người dùng";
 
 
-"URLScheme.userFollows" = "View user's followers";
+"URLScheme.userFollows" = "Xem người theo dõi của người dùng";
 
 
-"URLScheme.userLists" = "View user's lists";
+"URLScheme.userLists" = "Xem danh sách người dùng";
 
 
-"URLScheme.userTweets" = "View user's tweets";
+"URLScheme.userTweets" = "Xem Tweet của người dùng";
 
 
-"about.licensence" = "Open Source License";
+"about.licensence" = "Giấy phép mã nguồn mở";
 
 
 "about.rate" = "Rate";
@@ -33,10 +33,10 @@
 "account.manage.logout" = "Logout";
 
 
-"account.manage.logout.alert.title" = "Logout the current account?";
+"account.manage.logout.alert.title" = "Thoát khỏi tài khoản hiện tại?";
 
 
-"account.manage.title" = "Account Management";
+"account.manage.title" = "Quản lý tài khoản";
 
 
 "accountManager.add" = "Add Account";
