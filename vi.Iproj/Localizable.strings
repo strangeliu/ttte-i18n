@@ -57,19 +57,19 @@
 "accountManager.switchAlert.action.confirm" = "Switch";
 
 
-"accountManager.switchAlert.title" = "Chuyển sang tài khoản %@ ?";
+"accountManager.switchAlert.title" = "Switch to account %@ ?";
 
 
 "api.rateLimit" = "Vui lòng thử lại sau %@ phút";
 
 
-"app.shortcut.compose" = "Soạn";
+"app.shortcut.compose" = "Compose";
 
 
 "app.shortcut.search" = "Search";
 
 
-"blog.description.placeholder" = "Không giới thiệu";
+"blog.description.placeholder" = "No introduction";
 
 
 "common.add" = "Add";
@@ -90,7 +90,7 @@
 "common.next" = "Next";
 
 
-"common.notice" = "Thông báo";
+"common.notice" = "Notice";
 
 
 "common.ok" = "OK";
@@ -102,22 +102,22 @@
 "common.processing" = "Processing";
 
 
-"common.recommend" = "Giới thiệu";
+"common.recommend" = "Recommend";
 
 
 "common.reply" = "Reply";
 
 
-"following.title" = "Đang theo dõi";
+"following.title" = "Following";
 
 
-"following.total" = "Bạn hiện đang theo dõi %@ người";
+"following.total" = "You are currently following %@";
 
 
-"follows.title" = "Người theo dõi";
+"follows.title" = "Followers";
 
 
-"follows.total" = "%@ người theo dõi";
+"follows.total" = "%@ Followers";
 
 
 "help.title" = "Help";
@@ -159,7 +159,7 @@
 "lists.info.unsubscribe" = "Unsubscribe";
 
 
-"lists.new.descriptionField.placeholder" = "Miêu tả";
+"lists.new.descriptionField.placeholder" = "Description";
 
 
 "lists.new.makePublic" = "Công khai";
@@ -186,13 +186,13 @@
 "login.title" = "Login";
 
 
-"mentions.title" = "Đề cập";
+"mentions.title" = "Mentions";
 
 
-"message.title" = "Tin nhắn";
+"message.title" = "Messages";
 
 
-"messages.title" = "Tin nhắn";
+"messages.title" = "Messages";
 
 
 "password.authentication.reason" = "Cần xác minh danh tính của bạn";
@@ -258,13 +258,13 @@
 "playEndBehavior.stop" = "Stop";
 
 
-"player.brightness" = "độ sáng";
+"player.brightness" = "Độ sáng";
 
 
-"post.answer.ask" = "asking: ";
+"post.answer.ask" = "Asking: ";
 
 
-"post.follow" = "Theo dõi";
+"post.follow" = "Follow";
 
 
 "post.follow.hud" = "Follow success";
@@ -723,7 +723,7 @@
 "user.profile.actions.title" = "Actions";
 
 
-"user.profile.favourites" = "Likes";
+"user.profile.favourites" = "Favourites";
 
 
 "user.profile.follow" = "Follow";
