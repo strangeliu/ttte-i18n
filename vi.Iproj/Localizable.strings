@@ -531,19 +531,19 @@
 "setting.theme" = "Theme";
 
 
-"setting.theme.useDarkX" = "Use DarkX for dark mode";
+"setting.theme.useDarkX" = "Use Dark X for Dark mode";
 
 
 "setting.title" = "Setting";
 
 
-"setting.translate.activeAfterRelaunch" = "This setting takes effect after restarting";
+"setting.translate.activeAfterRelaunch" = "Cài đặt này có hiệu lực sau khi khởi động lại";
 
 
-"setting.translate.engine" = "Translation engine";
+"setting.translate.engine" = "Server dịch";
 
 
-"setting.translate.languageNeedTranslate" = "Languages need be translated";
+"setting.translate.languageNeedTranslate" = "Ngôn ngữ cần được dịch";
 
 
 "setting.translate.section.engine" = "Engine";
