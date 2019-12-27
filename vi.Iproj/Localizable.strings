@@ -225,10 +225,10 @@
 "photo.action.share.title" = "Share photo";
 
 
-"pincuts.edit" = "Edit pin";
+"pincuts.edit" = "Edit Pin";
 
 
-"pincuts.edit.markTip" = "Tap to Re-mark pin";
+"pincuts.edit.markTip" = "Tap to Re-mark Pin";
 
 
 "pincuts.intro" = "Bạn có thể ghim người dùng và liệt kê ở đây";
@@ -240,7 +240,7 @@
 "pincuts.new.mark.placeholder" = "Re-mark";
 
 
-"pincuts.new.title" = "Add pin";
+"pincuts.new.title" = "Add Pin";
 
 
 "pincuts.pin" = "Pin";
@@ -252,7 +252,7 @@
 "playEndBehavior.loop" = "Lặp lại";
 
 
-"playEndBehavior.next" = "Play next (Khi nhìn thấy)";
+"playEndBehavior.next" = "Play next";
 
 
 "playEndBehavior.stop" = "Stop";
@@ -306,7 +306,7 @@
 "post.unfollow.hud" = "Unfollow success";
 
 
-"premium.description" = "Upgrade to Full Version of TTTE";
+"premium.description" = "Upgrade to Full Version of ttte";
 
 
 "premium.fullVersion" = "Full Version";
@@ -522,7 +522,7 @@
 "setting.section.reading" = "Reading...";
 
 
-"setting.showSensitiveContent" = "Displays tweets that may contain sensitive content";
+"setting.showSensitiveContent" = "Hiển thị các Tweet chứa nội dung nhạy cảm";
 
 
 "setting.tfFeedback" = "Feedback for Testflight";
@@ -531,7 +531,7 @@
 "setting.theme" = "Theme";
 
 
-"setting.theme.useDarkX" = "Use Dark X for Dark mode";
+"setting.theme.useDarkX" = "Dark X for Dark mode";
 
 
 "setting.title" = "Setting";
@@ -552,16 +552,16 @@
 "setting.translate.section.language" = "Language";
 
 
-"setting.translate.targetLanguage" = "Target Language";
+"setting.translate.targetLanguage" = "Ngôn ngữ mục tiêu";
 
 
-"setting.translate.title" = "Translation Setting";
+"setting.translate.title" = "Translation setting";
 
 
-"support.followAuthor" = "Follow Author";
+"support.followAuthor" = "Developer";
 
 
-"support.others" = "My Apps";
+"support.others" = "My apps";
 
 
 "support.rate" = "Rate";
@@ -570,10 +570,10 @@
 "support.title" = "Support ttte";
 
 
-"support.viewMore" = "View More";
+"support.viewMore" = "View more";
 
 
-"tabs.notifications" = "Notifications";
+"tabs.notifications" = "Thông báo";
 
 
 "text.action.share" = "Share";
@@ -582,67 +582,67 @@
 "tips.ok" = "Got it";
 
 
-"tips.player.close" = " Swipe horizontal to adjust the playback, Swipt down to close.";
+"tips.player.close" = " Vuốt ngang để điều chỉnh phát lại, vuốt xuống để đóng";
 
 
-"tips.sharePhoto" = " Long press to share and save pictures.";
+"tips.sharePhoto" = " Nhấn hoặc giữ để chia sẻ, lưu hình ảnh";
 
 
 "title" = "ttte";
 
 
-"tranlateService.plan.yearly.name" = "Subscribe Yearly";
+"tranlateService.plan.yearly.name" = "Subscribe yearly";
 
 
-"translateService.engine.bing.description" = "Translation services provided by Microsoft";
+"translateService.engine.bing.description" = "Dịch thuật bởi Microsoft";
 
 
-"translateService.engine.bing.name" = "Bing translation services";
+"translateService.engine.bing.name" = "Bing translation";
 
 
-"translateService.engine.google.description" = "Translation services provided by the Google neural engine project";
+"translateService.engine.google.description" = "Dịch thuật bởi Google";
 
 
-"translateService.engine.google.name" = "Google translation services(*)";
+"translateService.engine.google.name" = "Google translation(*)";
 
 
-"translateService.engine.google2.description" = "Translation services provided by the Google neural engine project";
+"translateService.engine.google2.description" = "Dịch thuật bởi Google";
 
 
-"translateService.engine.google2.name" = "Google translation engine";
+"translateService.engine.google2.name" = "Google translation";
 
 
 "translateService.plan.monthly.name" = "Subscribe monthly";
 
 
-"translateService.private" = "The membership fee is charged to your App Store account at confirmation of purchase. The subscription is automatically renews and your account is charged unless auto-renew is turned off at least 24 hours before the end of the current subscription period. The membership is link with your iCloud account, and available on all of your iOS devices that sign in to same iCloud account. You may Migrate Membership in case you switch to a new iCloud account after subscription. If you have any questions, please Contact Us.";
+"translateService.private" = "Membership được tính vào tài khoản Apple ID của bạn khi xác nhận mua hàng. Đăng ký sẽ tự động gia hạn và tài khoản của bạn sẽ bị tính phí trừ khi tự động gia hạn bị tắt ít nhất 24 giờ trước khi kết thúc thời gian đăng ký hiện tại. Tư cách Membership là liên kết với tài khoản iCloud của bạn và có sẵn trên tất cả các thiết bị iOS của bạn đăng nhập vào cùng một tài khoản iCloud. Bạn có thể di chuyển thành viên trong trường hợp bạn chuyển sang tài khoản iCloud mới sau khi đăng ký. Nếu bạn có bất kỳ câu hỏi nào hãy liên hệ với chúng tôi!";
 
 
-"translateService.section.options" = "Options";
+"translateService.section.options" = "Tùy chọn";
 
 
 "translateService.section.terms" = "Terms";
 
 
-"translateService.subscibe.periodUnit.yearly" = "Per Year";
+"translateService.subscibe.periodUnit.yearly" = "Per year";
 
 
-"translateService.subscribe.buy" = "Subscribe Now";
+"translateService.subscribe.buy" = "Subscribe now";
 
 
-"translateService.subscribe.description" = "Use paid translation services, including Google Translate, Microsoft Bing Translator, etc.";
+"translateService.subscribe.description" = "Sử dụng các dịch vụ dịch thuật trả phí: Google translate, Bing translator, etc.";
 
 
-"translateService.subscribe.expired" = "Current subscription has expired at %@";
+"translateService.subscribe.expired" = "Subscription hiện tại đã hết hạn %@";
 
 
-"translateService.subscribe.notPurchased" = "No subscription currently";
+"translateService.subscribe.notPurchased" = "Hiện tại không có Subscription";
 
 
-"translateService.subscribe.periodUnit.monthly" = "Per Month";
+"translateService.subscribe.periodUnit.monthly" = "Per month";
 
 
-"translateService.subscribe.purchased" = "Current subscription is valid until %@";
+"translateService.subscribe.purchased" = "Subscription hiện tại có hiệu lực đến %@";
 
 
 "translateService.subscribe.verification.failed" = "Verification failed";
@@ -654,46 +654,46 @@
 "translateService.subscribeState.title" = "Subscription information";
 
 
-"translateService.termsAndPolicy" = "Terms and Privacy Policy";
+"translateService.termsAndPolicy" = "Terms and Privacy policy";
 
 
-"translateService.title" = "Tranlsate Service";
+"translateService.title" = "Tranlsate service";
 
 
 "tweet.action.alert.title" = "Actions";
 
 
-"tweet.action.retweet" = "Retweet";
+"tweet.action.retweet" = "Re-tweet";
 
 
-"tweet.action.retweet.cancel" = "Cancel retweet";
+"tweet.action.retweet.cancel" = "Cancel Re-tweet";
 
 
-"tweet.action.reweetWithComment" = "Retweet with comment";
+"tweet.action.reweetWithComment" = "Re-tweet with comment";
 
 
-"tweet.action.shareAsImage" = "Share as image";
+"tweet.action.shareAsImage" = "Share image";
 
 
-"tweet.content.loadQuoted" = "Show quoted tweet";
+"tweet.content.loadQuoted" = "Show quoted Tweet";
 
 
-"tweet.content.retweeted" = "Retweeted";
+"tweet.content.retweeted" = "Re-tweeted";
 
 
-"tweet.content.sensitive.description" = "You can view it temporarily or change your Privacy and safety account settings";
+"tweet.content.sensitive.description" = "Bạn có thể xem tạm thời hoặc thay đổi cài đặt tài khoản Quyền riêng tư và an toàn của bạn";
 
 
-"tweet.content.sensitive.exitViewTemporarily" = "Exit temporarily view mode";
+"tweet.content.sensitive.exitViewTemporarily" = "Thoát chế độ xem tạm thời";
 
 
-"tweet.content.sensitive.notice" = "This Tweet may include potentially sensitive content";
+"tweet.content.sensitive.notice" = "Tweet này có thể chứa nội dung nhạy cảm";
 
 
-"tweet.content.sensitive.setting" = "Privacy and safety account settings";
+"tweet.content.sensitive.setting" = "Cài đặt tài khoản Riêng tư và An toàn";
 
 
-"tweet.content.sensitive.viewTemporarily" = "View it temporarily";
+"tweet.content.sensitive.viewTemporarily" = "Xem tạm thời";
 
 
 "tweet.content.translateProvider" = "Translated by ";
@@ -702,7 +702,7 @@
 "tweet.content.translateProvider.token" = "Translated by";
 
 
-"user.action.addToList" = "Add to List";
+"user.action.addToList" = "Add to list";
 
 
 "user.action.addToList.success" = "Added";
@@ -723,7 +723,7 @@
 "user.profile.actions.title" = "Actions";
 
 
-"user.profile.favourites" = "Favourites";
+"user.profile.favourites" = "Likes";
 
 
 "user.profile.follow" = "Follow";
@@ -735,16 +735,16 @@
 "user.profile.lists" = "Lists";
 
 
-"user.profile.section.recentTweets" = "RECENT TWEET";
+"user.profile.section.recentTweets" = "Tweet gần đây";
 
 
-"user.profile.section.tweets" = "TWEETS";
+"user.profile.section.tweets" = "Tweets";
 
 
 "user.profile.tweets" = "Tweets";
 
 
-"user.profile.tweetsAndReplies" = "Tweets & replies";
+"user.profile.tweetsAndReplies" = "Tweets & Replies";
 
 
 "user.title" = "Profile";
