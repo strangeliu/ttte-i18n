@@ -1,0 +1,756 @@
+
+
+"URLScheme.compose" = "Compose";
+
+
+"URLScheme.openttte" = "Open ttte";
+
+
+"URLScheme.search" = "Search";
+
+
+"URLScheme.user" = "Xem hồ sơ người dùng";
+
+
+"URLScheme.userFollowings" = "Xem theo dõi của người dùng";
+
+
+"URLScheme.userFollows" = "Xem người theo dõi của người dùng";
+
+
+"URLScheme.userLists" = "Xem danh sách người dùng";
+
+
+"URLScheme.userTweets" = "Xem Tweet của người dùng";
+
+
+"about.licensence" = "Giấy phép mã nguồn mở";
+
+
+"about.rate" = "Rate";
+
+
+"account.manage.logout" = "Logout";
+
+
+"account.manage.logout.alert.title" = "Thoát khỏi tài khoản hiện tại?";
+
+
+"account.manage.title" = "Quản lý tài khoản";
+
+
+"accountManager.add" = "Add account";
+
+
+"accountManager.delete" = "Delete";
+
+
+"accountManager.deleteAlert.action.confirm" = "Delete";
+
+
+"accountManager.deleteAlert.title" = "Delete account %@ ?";
+
+
+"accountManager.section.multi" = "Multiple accounts";
+
+
+"accountManager.switchAlert.action.confirm" = "Switch";
+
+
+"accountManager.switchAlert.title" = "Switch to account %@ ?";
+
+
+"api.rateLimit" = "Vui lòng thử lại sau %@ phút";
+
+
+"app.shortcut.compose" = "Compose";
+
+
+"app.shortcut.search" = "Search";
+
+
+"blog.description.placeholder" = "No introduction";
+
+
+"common.add" = "Add";
+
+
+"common.cancel" = "Cancel";
+
+
+"common.copy" = "Copy";
+
+
+"common.delete" = "Delete";
+
+
+"common.done" = "Done";
+
+
+"common.next" = "Next";
+
+
+"common.notice" = "Notice";
+
+
+"common.ok" = "OK";
+
+
+"common.participle" = "Participle";
+
+
+"common.processing" = "Processing";
+
+
+"common.recommend" = "Recommend";
+
+
+"common.reply" = "Reply";
+
+
+"following.title" = "Following";
+
+
+"following.total" = "You are currently following %@";
+
+
+"follows.title" = "Followers";
+
+
+"follows.total" = "%@ Followers";
+
+
+"help.title" = "Help";
+
+
+"likes.title" = "Likes";
+
+
+"list.empty" = "No data";
+
+
+"list.retry" = "Retry";
+
+
+"lists.create" = "Create";
+
+
+"lists.info.delete" = "Delete";
+
+
+"lists.info.deleteAlert.message" = "Hoạt động này không thể được hoàn tác";
+
+
+"lists.info.deleteAlert.title" = "Delete %@";
+
+
+"lists.info.members" = "Members";
+
+
+"lists.info.mode" = "Mode";
+
+
+"lists.info.subscribe" = "Subscribe";
+
+
+"lists.info.subscribers" = "Subscribers";
+
+
+"lists.info.unsubscribe" = "Unsubscribe";
+
+
+"lists.new.descriptionField.placeholder" = "Description";
+
+
+"lists.new.makePublic" = "Công khai";
+
+
+"lists.new.titleField.placeholder" = "Tiêu đề";
+
+
+"lists.new.warn.titleEmpty" = "Vui lòng nhập tiêu đề";
+
+
+"login.button" = "Login via Twitter";
+
+
+"login.expired" = "Login has expired";
+
+
+"login.privateButton" = "Đăng nhập nghĩa là bạn đã đồng ý với thỏa thuận dịch vụ";
+
+
+"login.retry" = "Re-login";
+
+
+"login.title" = "Login";
+
+
+"mentions.title" = "Mentions";
+
+
+"message.title" = "Messages";
+
+
+"messages.title" = "Messages";
+
+
+"password.authentication.reason" = "Cần xác minh danh tính của bạn";
+
+
+"password.type.faceID.name" = "Face ID";
+
+
+"password.type.touchID.name" = "Touch ID";
+
+
+"password.unlock.description" = "Nhấn để mở khóa bằng %@";
+
+
+"password.unlock.failed.timesout" = "%@ đã bị khoá, vui lòng khóa iPhone và mở khóa bằng mật khẩu";
+
+
+"password.unlock.timesout" = "Quá nhiều lần, nên sử dụng mật khẩu để mở khóa";
+
+
+"photo.action.save.failed" = "Save photo failed";
+
+
+"photo.action.save.success" = "Saved";
+
+
+"photo.action.save.title" = "Save photo";
+
+
+"photo.action.share.title" = "Share photo";
+
+
+"pincuts.edit" = "Edit Pin";
+
+
+"pincuts.edit.markTip" = "Tap to Re-mark Pin";
+
+
+"pincuts.intro" = "Bạn có thể ghim người dùng và liệt kê ở đây";
+
+
+"pincuts.mark.title" = "Re-mark";
+
+
+"pincuts.new.mark.placeholder" = "Re-mark";
+
+
+"pincuts.new.title" = "Add Pin";
+
+
+"pincuts.pin" = "Pin";
+
+
+"pincuts.title" = "Pin";
+
+
+"playEndBehavior.loop" = "Lặp lại";
+
+
+"playEndBehavior.next" = "Play next";
+
+
+"playEndBehavior.stop" = "Stop";
+
+
+"player.brightness" = "Độ sáng";
+
+
+"post.answer.ask" = "Asking: ";
+
+
+"post.follow" = "Follow";
+
+
+"post.follow.hud" = "Follow success";
+
+
+"post.new.send" = "Tweet";
+
+
+"post.new.success" = "Post success";
+
+
+"post.node" = "Nút";
+
+
+"post.notSupport" = "Nội dung này không được hỗ trợ, vui lòng kiểm tra nó trên Web";
+
+
+"post.report" = "Report";
+
+
+"post.search.placeholder" = "Search";
+
+
+"post.type.all" = "All";
+
+
+"post.type.photo" = "Photos";
+
+
+"post.type.text" = "Text";
+
+
+"post.type.video" = "Videos";
+
+
+"post.unfollow" = "Unfollow";
+
+
+"post.unfollow.hud" = "Unfollow success";
+
+
+"premium.description" = "Upgrade to Full Version of ttte";
+
+
+"premium.fullVersion" = "Full Version";
+
+
+"premium.inAppPurchase.disabled" = "In-app Purchase is now allowed";
+
+
+"premium.intro.accounts" = "Multiple accounts";
+
+
+"premium.intro.accounts.description" = "Thêm nhiều tài khoản Twitter vào Browser, Post và Comment từ";
+
+
+"premium.intro.customizable" = "Tùy chỉnh";
+
+
+"premium.intro.customizable.description" = "Tuỳ chỉnh kiểu Tweet của bạn, kích thước văn bản, khoảng cách và hình dạng của Avatar theo ý thích của bạn";
+
+
+"premium.intro.darkMode" = "Dark Mode";
+
+
+"premium.intro.darkMode.description" = "Sử dụng chế độ tối tuyệt vời, hãy tử tế với đôi mắt của bạn";
+
+
+"premium.intro.faceID" = "Face ID & Touch ID";
+
+
+"premium.intro.faceID.description" = "Thêm một lớp bảo mật bổ sung cho ttte để bảo vệ quyền riêng tư của bạn bằng cách thêm phương thức mở khoá bằng Touch ID hoặc Face ID";
+
+
+"premium.intro.submitTweets" = "Gửi Tweet";
+
+
+"premium.intro.submitTweets.description" = "Tạo các Tweet mới mà bạn yêu thích, tải lên hình ảnh tuyệt vời và hơn thế nữa";
+
+
+"premium.success" = "PRO Version";
+
+
+"premium.title" = "PRO Version";
+
+
+"premium.update.buy" = "Upgrade at %@";
+
+
+"premium.update.restore" = "Restore";
+
+
+"premiumVerification.alert.message" = "Full Version needs to be verified";
+
+
+"premiumVerification.failed.message" = "If you have purchased Full Version, you can restore it";
+
+
+"premiumVerification.failed.restore" = "Restore";
+
+
+"premiumVerification.failed.title" = "Verification failed";
+
+
+"premiumVerification.succeed.title" = "Verification success";
+
+
+"private.title" = "Thỏa thuận sử dụng dịch vụ";
+
+
+"search.tab.tweet" = "Tweets";
+
+
+"search.tab.user" = "Users";
+
+
+"setting.about.about" = "About";
+
+
+"setting.about.feedback" = "Feedback";
+
+
+"setting.about.feedback.body" = "Feedback: ";
+
+
+"setting.about.feedback.failed.noAccount" = "Không có tài khoản Email, vui lòng kiểm tra các cài đặt liên quan";
+
+
+"setting.about.feedback.title" = "Feedback";
+
+
+"setting.about.rate" = "Rate ttte";
+
+
+"setting.about.support" = "Support ttte";
+
+
+"setting.darkMode" = "Dark Mode";
+
+
+"setting.other.cleanCache" = "Clean cache";
+
+
+"setting.other.cleanCache.alert.clean" = "Xoá";
+
+
+"setting.other.cleanCache.alert.message" = "Điều này sẽ không xóa các tập tin ngoại tuyến, không thể được khôi phục sau khi xoá";
+
+
+"setting.other.cleanCache.alert.title" = "Clean cache(%@)";
+
+
+"setting.other.cleanCache.cleaning" = "Cleaning...";
+
+
+"setting.other.cleanCache.counting" = "Đang tính toán...";
+
+
+"setting.password.time.always" = "Always";
+
+
+"setting.password.time.minutes" = "%@ phút sau";
+
+
+"setting.password.time.title" = "Tự động khoá";
+
+
+"setting.photos.origin" = "Ảnh gốc khi Preview";
+
+
+"setting.photos.origin.always" = "Always";
+
+
+"setting.photos.origin.never" = "Never";
+
+
+"setting.photos.origin.wifi" = "WiFi";
+
+
+"setting.player.autoPlay" = "Tự động phát Video trong danh sách";
+
+
+"setting.player.endBehavior" = "Tuỳ chọn khi video kết thúc";
+
+
+"setting.player.endBehavior.selectorTitle" = "Chọn một tuỳ chọn khi Video kết thúc";
+
+
+"setting.player.mute" = "Tắt tiếng người chơi trong danh sách";
+
+
+"setting.presenting.avatar" = "Avatar";
+
+
+"setting.presenting.content.text" = " “Nothing Special";
+
+
+"setting.presenting.fontSize" = "Font size";
+
+
+"setting.presenting.lineSpacing" = "Khoảng cách dòng";
+
+
+"setting.presenting.preview" = "Previewing...";
+
+
+"setting.presenting.title" = "Cài đặt hiển thị";
+
+
+"setting.presenting.useBoldFont" = "Chữ đậm";
+
+
+"setting.presenting.useRoundAvatar" = "Khung tròn Avatar";
+
+
+"setting.private.open" = "Bật %@ xác thực";
+
+
+"setting.private.time" = "Tự động khoá";
+
+
+"setting.reading.useReadingModeForWeb" = "Sử dụng chế độ đọc trang Web";
+
+
+"setting.readingMode" = "Chế độ đọc";
+
+
+"setting.readingMode.positive" = "Trật tự";
+
+
+"setting.readingMode.reverse" = "Đảo ngược";
+
+
+"setting.readingMode.selectTitle" = "Chọn chế độ đọc";
+
+
+"setting.section.about" = "About";
+
+
+"setting.section.other" = "Khác";
+
+
+"setting.section.photo" = "Photos";
+
+
+"setting.section.player" = "Player";
+
+
+"setting.section.presenting" = "Trình bày";
+
+
+"setting.section.private" = "Private";
+
+
+"setting.section.reading" = "Reading...";
+
+
+"setting.showSensitiveContent" = "Hiển thị các Tweet chứa nội dung nhạy cảm";
+
+
+"setting.tfFeedback" = "Feedback for Testflight";
+
+
+"setting.theme" = "Theme";
+
+
+"setting.theme.useDarkX" = "Dark X for Dark mode";
+
+
+"setting.title" = "Setting";
+
+
+"setting.translate.activeAfterRelaunch" = "Cài đặt này có hiệu lực sau khi khởi động lại";
+
+
+"setting.translate.engine" = "Server dịch";
+
+
+"setting.translate.languageNeedTranslate" = "Ngôn ngữ cần được dịch";
+
+
+"setting.translate.section.engine" = "Engine";
+
+
+"setting.translate.section.language" = "Language";
+
+
+"setting.translate.targetLanguage" = "Ngôn ngữ mục tiêu";
+
+
+"setting.translate.title" = "Translation setting";
+
+
+"support.followAuthor" = "Developer";
+
+
+"support.others" = "My apps";
+
+
+"support.rate" = "Rate";
+
+
+"support.title" = "Support ttte";
+
+
+"support.viewMore" = "View more";
+
+
+"tabs.notifications" = "Thông báo";
+
+
+"text.action.share" = "Share";
+
+
+"tips.ok" = "Got it";
+
+
+"tips.player.close" = " Vuốt ngang để điều chỉnh phát lại, vuốt xuống để đóng";
+
+
+"tips.sharePhoto" = " Nhấn hoặc giữ để chia sẻ, lưu hình ảnh";
+
+
+"title" = "ttte";
+
+
+"tranlateService.plan.yearly.name" = "Subscribe yearly";
+
+
+"translateService.engine.bing.description" = "Dịch thuật bởi Microsoft";
+
+
+"translateService.engine.bing.name" = "Bing translation";
+
+
+"translateService.engine.google.description" = "Dịch thuật bởi Google";
+
+
+"translateService.engine.google.name" = "Google translation(*)";
+
+
+"translateService.engine.google2.description" = "Dịch thuật bởi Google";
+
+
+"translateService.engine.google2.name" = "Google translation";
+
+
+"translateService.plan.monthly.name" = "Subscribe monthly";
+
+
+"translateService.private" = "Membership được tính vào tài khoản Apple ID của bạn khi xác nhận mua hàng. Đăng ký sẽ tự động gia hạn và tài khoản của bạn sẽ bị tính phí trừ khi tự động gia hạn bị tắt ít nhất 24 giờ trước khi kết thúc thời gian đăng ký hiện tại. Tư cách Membership là liên kết với tài khoản iCloud của bạn và có sẵn trên tất cả các thiết bị iOS của bạn đăng nhập vào cùng một tài khoản iCloud. Bạn có thể di chuyển thành viên trong trường hợp bạn chuyển sang tài khoản iCloud mới sau khi đăng ký. Nếu bạn có bất kỳ câu hỏi nào hãy liên hệ với chúng tôi!";
+
+
+"translateService.section.options" = "Tùy chọn";
+
+
+"translateService.section.terms" = "Terms";
+
+
+"translateService.subscibe.periodUnit.yearly" = "Per year";
+
+
+"translateService.subscribe.buy" = "Subscribe now";
+
+
+"translateService.subscribe.description" = "Sử dụng các dịch vụ dịch thuật trả phí: Google translate, Bing translator, etc.";
+
+
+"translateService.subscribe.expired" = "Subscription hiện tại đã hết hạn %@";
+
+
+"translateService.subscribe.notPurchased" = "Hiện tại không có Subscription";
+
+
+"translateService.subscribe.periodUnit.monthly" = "Per month";
+
+
+"translateService.subscribe.purchased" = "Subscription hiện tại có hiệu lực đến %@";
+
+
+"translateService.subscribe.verification.failed" = "Verification failed";
+
+
+"translateService.subscribeState.sectionTitle" = "Subscription";
+
+
+"translateService.subscribeState.title" = "Subscription information";
+
+
+"translateService.termsAndPolicy" = "Terms and Privacy policy";
+
+
+"translateService.title" = "Tranlsate service";
+
+
+"tweet.action.alert.title" = "Actions";
+
+
+"tweet.action.retweet" = "Re-tweet";
+
+
+"tweet.action.retweet.cancel" = "Cancel Re-tweet";
+
+
+"tweet.action.reweetWithComment" = "Re-tweet with comment";
+
+
+"tweet.action.shareAsImage" = "Share image";
+
+
+"tweet.content.loadQuoted" = "Show quoted Tweet";
+
+
+"tweet.content.retweeted" = "Re-tweeted";
+
+
+"tweet.content.sensitive.description" = "Bạn có thể xem tạm thời hoặc thay đổi cài đặt tài khoản Quyền riêng tư và an toàn của bạn";
+
+
+"tweet.content.sensitive.exitViewTemporarily" = "Thoát chế độ xem tạm thời";
+
+
+"tweet.content.sensitive.notice" = "Tweet này có thể chứa nội dung nhạy cảm";
+
+
+"tweet.content.sensitive.setting" = "Cài đặt tài khoản Riêng tư và An toàn";
+
+
+"tweet.content.sensitive.viewTemporarily" = "Xem tạm thời";
+
+
+"tweet.content.translateProvider" = "Translated by ";
+
+
+"tweet.content.translateProvider.token" = "Translated by";
+
+
+"user.action.addToList" = "Add to list";
+
+
+"user.action.addToList.success" = "Added";
+
+
+"user.following" = "Followings";
+
+
+"user.follows" = "Followers";
+
+
+"user.profile.actions.copyTtteLink" = "Copy ttte link";
+
+
+"user.profile.actions.copyTwitterLink" = "Copy Twitter link";
+
+
+"user.profile.actions.title" = "Actions";
+
+
+"user.profile.favourites" = "Favourites";
+
+
+"user.profile.follow" = "Follow";
+
+
+"user.profile.following" = "Following";
+
+
+"user.profile.lists" = "Lists";
+
+
+"user.profile.section.recentTweets" = "Tweet gần đây";
+
+
+"user.profile.section.tweets" = "Tweets";
+
+
+"user.profile.tweets" = "Tweets";
+
+
+"user.profile.tweetsAndReplies" = "Tweets & Replies";
+
+
+"user.title" = "Profile";
+
+
+"user.tweets" = "Tweets";
+
+
+"video.action.save" = "Save to album";
