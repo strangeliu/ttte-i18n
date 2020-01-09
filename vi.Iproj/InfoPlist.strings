@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  ttte
+
+  Created by Liu on 2018/3/10.
+  Copyright © 2018年 grace. All rights reserved.
+*/
+
+{
+    NSPhotoLibraryUsageDescription = "Used to compose photos and save photos to albums.";
+    NSPhotoLibraryAddUsageDescription = "Used to save photos to albums.";
+    NSCameraUsageDescription = "Used to take photos for composing";
+    NSFaceIDUsageDescription = "Used to unlock APP";
+    NSLocationWhenInUseUsageDescription = "Used to add GEO when composeing";
+}
