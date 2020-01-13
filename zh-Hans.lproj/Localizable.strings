@@ -108,6 +108,9 @@
 "common.reply" = "回复";
 
 
+"common.select" = "选择";
+
+
 "following.title" = "关注中";
 
 
@@ -184,6 +187,18 @@
 
 
 "login.title" = "登录";
+
+
+"media.forwardToSavedMedia.message.success" = "添加成功";
+
+
+"media.fowardToSavedMedias" = "添加到保存的媒体";
+
+
+"media.list.title" = "媒体";
+
+
+"media.list.view" = "浏览媒体";
 
 
 "mentions.title" = "提到我的";
@@ -339,10 +354,28 @@
 "premium.intro.faceID.description" = "通过选择性地添加指纹锁或面容锁，为ttte添加额外的安全层，为你的隐私保驾护航。";
 
 
+"premium.intro.saveMedias" = "添加媒体到保存的媒体";
+
+
+"premium.intro.saveMedias.description" = "发现感兴趣的图片和视频？立即添加到保存的媒体，随时随地浏览！";
+
+
 "premium.intro.submitTweets" = "新的推文";
 
 
 "premium.intro.submitTweets.description" = "发起新的推文，及回复推文，可以使用令人惊叹的多媒体选择器及上传工具。";
+
+
+"premium.intro.viewMediaList" = "媒体瀑布流";
+
+
+"premium.intro.viewMediaList.description" = "浏览媒体瀑布流，图片视频排成排！";
+
+
+"premium.limit.description" = "专业版功能";
+
+
+"premium.limit.upgradeButton.title" = "立即升级";
 
 
 "premium.success" = "已升级到专业版";
@@ -375,6 +408,12 @@
 "private.title" = "《服务使用协议》";
 
 
+"savedMedias.title" = "保存的媒体";
+
+
+"savedMedias.toolbar.saveToAlbum" = "Save to album";
+
+
 "search.tab.tweet" = "推文";
 
 
@@ -384,7 +423,7 @@
 "setting.about.about" = "关于";
 
 
-"setting.about.feedback" = "反馈建议";
+"setting.about.feedback" = "ttte 反馈建议";
 
 
 "setting.about.feedback.body" = "建议反馈: ";
@@ -444,7 +483,7 @@
 "setting.photos.origin.wifi" = "使用Wi-Fi时";
 
 
-"setting.player.autoPlay" = "列表中自动播放视频";
+"setting.player.autoPlay" = "自动播放视频";
 
 
 "setting.player.endBehavior" = "视频播放完时";

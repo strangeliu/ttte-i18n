@@ -108,6 +108,9 @@
 "common.reply" = "Reply";
 
 
+"common.select" = "Select";
+
+
 "following.title" = "Following";
 
 
@@ -138,7 +141,7 @@
 "lists.info.delete" = "Delete";
 
 
-"lists.info.deleteAlert.message" = "该操作无法撤消";
+"lists.info.deleteAlert.message" = "This operation cannot be undone";
 
 
 "lists.info.deleteAlert.title" = "Delete %@";
@@ -184,6 +187,18 @@
 
 
 "login.title" = "Login";
+
+
+"media.forwardToSavedMedia.message.success" = "Succeeded";
+
+
+"media.fowardToSavedMedias" = "Foward to Saved medias";
+
+
+"media.list.title" = "Medias";
+
+
+"media.list.view" = "View Medias";
 
 
 "mentions.title" = "Mentions";
@@ -312,7 +327,7 @@
 "premium.fullVersion" = "Full Version";
 
 
-"premium.inAppPurchase.disabled" = "In-App purchase is now allowed";
+"premium.inAppPurchase.disabled" = "In-App purchase is not allowed";
 
 
 "premium.intro.accounts" = "Multiple Accounts";
@@ -339,10 +354,28 @@
 "premium.intro.faceID.description" = "Add an extra layer of security to the ttte to protect your privacy by selectively adding Touch ID or Face ID unlock.";
 
 
+"premium.intro.saveMedias" = "Forward medias to Saved medias";
+
+
+"premium.intro.saveMedias.description" = "Add to saved media now and browse anytime, anywhere when you found interesting photos and videos.";
+
+
 "premium.intro.submitTweets" = "Subbbmit Tweets";
 
 
 "premium.intro.submitTweets.description" = "Create new tweets you love, with an amazing built-in image uploader, and more.";
+
+
+"premium.intro.viewMediaList" = "View medias like a Pro";
+
+
+"premium.intro.viewMediaList.description" = "Yeah, just view medias like a Pro";
+
+
+"premium.limit.description" = "Premium Only";
+
+
+"premium.limit.upgradeButton.title" = "Upgrade Now";
 
 
 "premium.success" = "Pro Version";
@@ -375,6 +408,12 @@
 "private.title" = "Service Usage Agreement";
 
 
+"savedMedias.title" = "Saved Medias";
+
+
+"savedMedias.toolbar.saveToAlbum" = "保存到相册";
+
+
 "search.tab.tweet" = "Tweets";
 
 
@@ -384,7 +423,7 @@
 "setting.about.about" = "About";
 
 
-"setting.about.feedback" = "Feedback";
+"setting.about.feedback" = "Feedback for ttte";
 
 
 "setting.about.feedback.body" = "Feedback: ";
@@ -444,7 +483,7 @@
 "setting.photos.origin.wifi" = "Wi-Fi";
 
 
-"setting.player.autoPlay" = "Auto play videos in the list";
+"setting.player.autoPlay" = "Auto play videos";
 
 
 "setting.player.endBehavior" = "Behavior when video is over";

@@ -108,6 +108,9 @@
 "common.reply" = "Reply";
 
 
+"common.select" = "Select";
+
+
 "following.title" = "Following";
 
 
@@ -184,6 +187,18 @@
 
 
 "login.title" = "Login";
+
+
+"media.forwardToSavedMedia.message.success" = "Succeeded";
+
+
+"media.fowardToSavedMedias" = "Foward to Saved medias";
+
+
+"media.list.title" = "Medias";
+
+
+"media.list.view" = "View Medias";
 
 
 "mentions.title" = "Mentions";
@@ -312,7 +327,7 @@
 "premium.fullVersion" = "Full Version";
 
 
-"premium.inAppPurchase.disabled" = "In-app Purchase is now allowed";
+"premium.inAppPurchase.disabled" = "In-app Purchase is not allowed";
 
 
 "premium.intro.accounts" = "Multiple accounts";
@@ -339,10 +354,28 @@
 "premium.intro.faceID.description" = "Thêm một lớp bảo mật bổ sung cho ttte để bảo vệ quyền riêng tư của bạn bằng cách thêm phương thức mở khoá bằng Touch ID hoặc Face ID";
 
 
+"premium.intro.saveMedias" = "Forward medias to Saved medias";
+
+
+"premium.intro.saveMedias.description" = "Add to saved media now and browse anytime, anywhere when you found interesting photos and videos.";
+
+
 "premium.intro.submitTweets" = "Gửi Tweet";
 
 
 "premium.intro.submitTweets.description" = "Tạo các Tweet mới mà bạn yêu thích, tải lên hình ảnh tuyệt vời và hơn thế nữa";
+
+
+"premium.intro.viewMediaList" = "View medias like a Pro";
+
+
+"premium.intro.viewMediaList.description" = "Yeah, just view medias like a Pro";
+
+
+"premium.limit.description" = "Premium Only";
+
+
+"premium.limit.upgradeButton.title" = "Upgrade Now";
 
 
 "premium.success" = "PRO Version";
@@ -375,6 +408,12 @@
 "private.title" = "Thỏa thuận sử dụng dịch vụ";
 
 
+"savedMedias.title" = "Saved Medias";
+
+
+"savedMedias.toolbar.saveToAlbum" = "Save to album";
+
+
 "search.tab.tweet" = "Tweets";
 
 
@@ -384,7 +423,7 @@
 "setting.about.about" = "About";
 
 
-"setting.about.feedback" = "Feedback";
+"setting.about.feedback" = "Feedback for ttte";
 
 
 "setting.about.feedback.body" = "Feedback: ";
