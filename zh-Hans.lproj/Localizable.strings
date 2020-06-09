@@ -1,5 +1,8 @@
 
 
+"URLScheme.collectedMedia" = "查看保存的多媒体";
+
+
 "URLScheme.compose" = "发表推文";
 
 
@@ -21,7 +24,13 @@
 "URLScheme.userLists" = "查看用户List列表";
 
 
+"URLScheme.userMedia" = "查看用户多媒体";
+
+
 "URLScheme.userTweets" = "查看用户推文";
+
+
+"URLScheme.viewMedia" = "查看多媒体";
 
 
 "about.licensence" = "开源许可";
@@ -87,6 +96,9 @@
 "common.done" = "完成";
 
 
+"common.more" = "更多";
+
+
 "common.next" = "继续";
 
 
@@ -109,6 +121,9 @@
 
 
 "common.select" = "选择";
+
+
+"compose.saveAsDraft" = "保存为草稿";
 
 
 "following.title" = "关注中";
@@ -192,13 +207,16 @@
 "media.forwardToSavedMedia.message.success" = "添加成功";
 
 
-"media.fowardToSavedMedias" = "添加到保存的媒体";
+"media.fowardToSavedMedia" = "添加到保存的多媒体";
 
 
-"media.list.title" = "媒体";
+"media.list.title" = "多媒体";
 
 
-"media.list.view" = "浏览媒体";
+"media.list.view" = "浏览多媒体";
+
+
+"media.viewTweet" = "查看推文";
 
 
 "mentions.title" = "提到我的";
@@ -354,10 +372,10 @@
 "premium.intro.faceID.description" = "通过选择性地添加指纹锁或面容锁，为ttte添加额外的安全层，为你的隐私保驾护航。";
 
 
-"premium.intro.saveMedias" = "添加媒体到保存的媒体";
+"premium.intro.saveMedias" = "添加到保存的多媒体";
 
 
-"premium.intro.saveMedias.description" = "发现感兴趣的图片和视频？立即添加到保存的媒体，随时随地浏览！";
+"premium.intro.saveMedias.description" = "发现感兴趣的图片和视频？立即添加到保存的多媒体，随时随地浏览！";
 
 
 "premium.intro.submitTweets" = "新的推文";
@@ -366,10 +384,10 @@
 "premium.intro.submitTweets.description" = "发起新的推文，及回复推文，可以使用令人惊叹的多媒体选择器及上传工具。";
 
 
-"premium.intro.viewMediaList" = "媒体瀑布流";
+"premium.intro.viewMediaList" = "多媒体瀑布流";
 
 
-"premium.intro.viewMediaList.description" = "浏览媒体瀑布流，图片视频排成排！";
+"premium.intro.viewMediaList.description" = "浏览多媒体瀑布流，图片视频排成排！";
 
 
 "premium.limit.description" = "专业版功能";
@@ -405,13 +423,16 @@
 "premiumVerification.succeed.title" = "验证成功";
 
 
+"preview.photo.viewFullImage" = "查看原图";
+
+
 "private.title" = "《服务使用协议》";
 
 
-"savedMedias.title" = "保存的媒体";
+"savedMedia.title" = "保存的多媒体";
 
 
-"savedMedias.toolbar.saveToAlbum" = "Save to album";
+"savedMedia.toolbar.saveToAlbum" = "保存到相册";
 
 
 "search.tab.tweet" = "推文";
@@ -699,6 +720,9 @@
 "translateService.title" = "翻译服务";
 
 
+"trending.area" = "热搜地区";
+
+
 "tweet.action.alert.title" = "请选择操作";
 
 
@@ -793,3 +817,6 @@
 
 
 "video.action.save" = "保存到相册";
+
+
+"video.action.share.title" = "分享视频";

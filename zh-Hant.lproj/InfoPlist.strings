@@ -1,18 +1,15 @@
+/*
+  InfoPlist.strings
+  ttte
 
+  Created by Liu on 2018/3/10.
+  Copyright © 2018年 grace. All rights reserved.
+*/
 
-"NSCameraUsageDescription" = "ttte 需要您的同意才能訪問相機";
-
-
-"NSFaceIDUsageDescription" = "ttte 需要使用Face ID來登錄你的帳號";
-
-
-"NSLocationWhenInUseUsageDescription" = "ttte 需要使用你的定位來添加位置信息";
-
-
-"NSPhotoLibraryAddUsageDescription" = "ttte 需要保存圖片到您的相冊";
-
-
-"NSPhotoLibraryUsageDescription" = "ttte 需要保存圖片到您的相冊";
-
-
-"mentions.title" = "提到我的";
+{
+    NSPhotoLibraryUsageDescription = "ttte 需要您的同意才能訪問相機";
+    NSPhotoLibraryAddUsageDescription = "ttte 需要使用Face ID來登錄你的帳號";
+    NSCameraUsageDescription = "ttte 需要使用你的定位來添加位置信息";
+    NSFaceIDUsageDescription = "ttte 需要保存圖片到您的相冊";
+    NSLocationWhenInUseUsageDescription = "ttte 需要保存圖片到您的相冊";
+}

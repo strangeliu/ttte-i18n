@@ -1,5 +1,8 @@
 
 
+"URLScheme.collectedMedia" = "查看保存的多媒體";
+
+
 "URLScheme.compose" = "發表推文";
 
 
@@ -21,7 +24,13 @@
 "URLScheme.userLists" = "查看用戶List列表";
 
 
+"URLScheme.userMedia" = "查看用戶多媒體";
+
+
 "URLScheme.userTweets" = "查看用戶推文";
+
+
+"URLScheme.viewMedia" = "查看多媒體";
 
 
 "about.licensence" = "開源許可";
@@ -87,6 +96,9 @@
 "common.done" = "完成";
 
 
+"common.more" = "更多";
+
+
 "common.next" = "繼續";
 
 
@@ -109,6 +121,9 @@
 
 
 "common.select" = "選擇";
+
+
+"compose.saveAsDraft" = "保存為草稿";
 
 
 "following.title" = "關注中";
@@ -192,13 +207,16 @@
 "media.forwardToSavedMedia.message.success" = "添加成功";
 
 
-"media.fowardToSavedMedias" = "添加到保存的媒體";
+"media.fowardToSavedMedia" = "添加到保存的媒體";
 
 
 "media.list.title" = "媒體";
 
 
 "media.list.view" = "瀏覽媒體";
+
+
+"media.viewTweet" = "查看推文";
 
 
 "mentions.title" = "提到我的";
@@ -405,13 +423,16 @@
 "premiumVerification.succeed.title" = "驗證成功";
 
 
+"preview.photo.viewFullImage" = "查看原圖";
+
+
 "private.title" = "《服務使用協議》";
 
 
-"savedMedias.title" = "保存的媒體";
+"savedMedia.title" = "保存的媒體";
 
 
-"savedMedias.toolbar.saveToAlbum" = "保存到相冊";
+"savedMedia.toolbar.saveToAlbum" = "保存到相冊";
 
 
 "search.tab.tweet" = "推文";
@@ -699,6 +720,9 @@
 "translateService.title" = "翻譯服務";
 
 
+"trending.area" = "熱搜地區";
+
+
 "tweet.action.alert.title" = "請選擇操作";
 
 
@@ -793,3 +817,6 @@
 
 
 "video.action.save" = "保存到相冊";
+
+
+"video.action.share.title" = "分享视频";

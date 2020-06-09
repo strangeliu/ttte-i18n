@@ -1,5 +1,8 @@
 
 
+"URLScheme.collectedMedia" = "View Saved media";
+
+
 "URLScheme.compose" = "Compose";
 
 
@@ -21,7 +24,13 @@
 "URLScheme.userLists" = "Xem danh sách người dùng";
 
 
+"URLScheme.userMedia" = "View user's media";
+
+
 "URLScheme.userTweets" = "Xem Tweet của người dùng";
+
+
+"URLScheme.viewMedia" = "View timeline media";
 
 
 "about.licensence" = "Giấy phép mã nguồn mở";
@@ -87,6 +96,9 @@
 "common.done" = "Done";
 
 
+"common.more" = "More";
+
+
 "common.next" = "Next";
 
 
@@ -109,6 +121,9 @@
 
 
 "common.select" = "Select";
+
+
+"compose.saveAsDraft" = "Save as Draft";
 
 
 "following.title" = "Following";
@@ -192,13 +207,16 @@
 "media.forwardToSavedMedia.message.success" = "Succeeded";
 
 
-"media.fowardToSavedMedias" = "Foward to Saved medias";
+"media.fowardToSavedMedia" = "Foward to Saved media";
 
 
-"media.list.title" = "Medias";
+"media.list.title" = "Media";
 
 
-"media.list.view" = "View Medias";
+"media.list.view" = "View Media";
+
+
+"media.viewTweet" = "View tweet";
 
 
 "mentions.title" = "Mentions";
@@ -354,7 +372,7 @@
 "premium.intro.faceID.description" = "Thêm một lớp bảo mật bổ sung cho ttte để bảo vệ quyền riêng tư của bạn bằng cách thêm phương thức mở khoá bằng Touch ID hoặc Face ID";
 
 
-"premium.intro.saveMedias" = "Forward medias to Saved medias";
+"premium.intro.saveMedias" = "Forward media to Saved media";
 
 
 "premium.intro.saveMedias.description" = "Add to saved media now and browse anytime, anywhere when you found interesting photos and videos.";
@@ -405,13 +423,16 @@
 "premiumVerification.succeed.title" = "Verification success";
 
 
+"preview.photo.viewFullImage" = "Full Image";
+
+
 "private.title" = "Thỏa thuận sử dụng dịch vụ";
 
 
-"savedMedias.title" = "Saved Medias";
+"savedMedia.title" = "Saved Media";
 
 
-"savedMedias.toolbar.saveToAlbum" = "Save to album";
+"savedMedia.toolbar.saveToAlbum" = "Save to album";
 
 
 "search.tab.tweet" = "Tweets";
@@ -699,6 +720,9 @@
 "translateService.title" = "Tranlsate service";
 
 
+"trending.area" = "Trending area";
+
+
 "tweet.action.alert.title" = "Actions";
 
 
@@ -793,3 +817,6 @@
 
 
 "video.action.save" = "Save to album";
+
+
+"video.action.share.title" = "Share video";
