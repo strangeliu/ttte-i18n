@@ -1,822 +1,320 @@
-
-
 "URLScheme.collectedMedia" = "查看保存的多媒體";
-
-
-"URLScheme.compose" = "發表推文";
-
-
+"URLScheme.compose" = "發布推文";
 "URLScheme.openttte" = "打開 ttte";
-
-
 "URLScheme.search" = "搜索";
-
-
 "URLScheme.user" = "查看用戶信息";
-
-
 "URLScheme.userFollowings" = "查看用戶關注列表";
-
-
 "URLScheme.userFollows" = "查看用戶關注者列表";
-
-
 "URLScheme.userLists" = "查看用戶List列表";
-
-
 "URLScheme.userMedia" = "查看用戶多媒體";
-
-
 "URLScheme.userTweets" = "查看用戶推文";
-
-
 "URLScheme.viewMedia" = "查看多媒體";
-
-
-"about.licensence" = "開源許可";
-
-
-"about.rate" = "去評分";
-
-
 "account.manage.logout" = "登出";
-
-
 "account.manage.logout.alert.title" = "登出當前帳號？";
-
-
 "account.manage.title" = "帳號管理";
-
-
+"account.verify.alert.action" = "立即驗證";
+"account.verify.alert.message" = "Twitter 需要驗證您的帳號以防止濫用，訪問twitter.com進行驗證";
+"account.verify.alert.title" = "帳號安全驗證";
 "accountManager.add" = "添加帳號";
-
-
 "accountManager.delete" = "刪除";
-
-
 "accountManager.deleteAlert.action.confirm" = "刪除";
-
-
 "accountManager.deleteAlert.title" = "刪除帳號 %@ ?";
-
-
 "accountManager.section.multi" = "多帳號";
-
-
 "accountManager.switchAlert.action.confirm" = "切換";
-
-
 "accountManager.switchAlert.title" = "切換到帳號 %@ ?";
-
-
 "api.rateLimit" = "操作太頻繁，請 %@ 分鐘後重試";
-
-
 "app.shortcut.compose" = "新推文";
-
-
 "app.shortcut.search" = "搜索";
-
-
 "blog.description.placeholder" = "暫無簡介";
-
-
 "common.add" = "添加";
-
-
 "common.cancel" = "取消";
-
-
 "common.copy" = "複製";
-
-
+"common.copyLink" = "複製鏈接";
 "common.delete" = "刪除";
-
-
 "common.done" = "完成";
-
-
 "common.more" = "更多";
-
-
 "common.next" = "繼續";
-
-
 "common.notice" = "提示";
-
-
 "common.ok" = "確定";
-
-
 "common.participle" = "分詞";
-
-
 "common.processing" = "正在處理";
-
-
 "common.recommend" = "推薦";
-
-
 "common.reply" = "回复";
-
-
 "common.select" = "選擇";
-
-
+"compose.drafts.title" = "草稿";
 "compose.saveAsDraft" = "保存為草稿";
-
-
+"contextAction.url.openWithReadingMode" = "使用閱讀模式打開";
+"contextAction.url.openWithSystemBrowser" = "默認瀏覽器中打開";
 "following.title" = "關注中";
-
-
 "following.total" = "你正在關注%@個博客";
-
-
 "follows.title" = "關注者";
-
-
 "follows.total" = "有%@個人正在關注你";
-
-
 "help.title" = "幫助";
-
-
 "likes.title" = "喜歡";
-
-
 "list.empty" = "暫無數據";
-
-
+"list.loadMore" = "裝載更多";
 "list.retry" = "點擊重試";
-
-
 "lists.create" = "創建";
-
-
+"lists.create.title" = "创建 List";
 "lists.info.delete" = "刪除";
-
-
 "lists.info.deleteAlert.message" = "This operation cannot be undone";
-
-
 "lists.info.deleteAlert.title" = "刪除 %@";
-
-
 "lists.info.members" = "成員";
-
-
 "lists.info.mode" = "模式";
-
-
 "lists.info.subscribe" = "訂閱";
-
-
 "lists.info.subscribers" = "訂閱用戶";
-
-
 "lists.info.unsubscribe" = "取消訂閱";
-
-
 "lists.new.descriptionField.placeholder" = "描述";
-
-
 "lists.new.makePublic" = "設置為公開";
-
-
 "lists.new.titleField.placeholder" = "名稱";
-
-
 "lists.new.warn.titleEmpty" = "請輸入標題";
-
-
+"lists.viewDetail" = "詳情";
 "login.button" = "使用Twitter登錄";
-
-
 "login.expired" = "登錄已過期";
-
-
 "login.privateButton" = "登錄即代表你已同意服務協議";
-
-
 "login.retry" = "重新登錄";
-
-
 "login.title" = "登錄";
-
-
 "media.forwardToSavedMedia.message.success" = "添加成功";
-
-
 "media.fowardToSavedMedia" = "添加到保存的媒體";
-
-
 "media.list.title" = "媒體";
-
-
 "media.list.view" = "瀏覽媒體";
-
-
 "media.viewTweet" = "查看推文";
-
-
 "mentions.title" = "提到我的";
-
-
 "message.title" = "提醒";
-
-
 "messages.title" = "消息";
-
-
 "password.authentication.reason" = "需要驗證您的指紋來確認您的身份信息";
-
-
 "password.type.faceID.name" = "面容ID";
-
-
 "password.type.touchID.name" = "指紋ID";
-
-
 "password.unlock.description" = "點擊使用%@解鎖";
-
-
 "password.unlock.failed.timesout" = "由於錯誤次數​​過多，%@已鎖定，請鎖定iPhone使用密碼解鎖後再嘗試。";
-
-
 "password.unlock.timesout" = "錯誤次數過多，建議使用密碼解鎖";
-
-
 "photo.action.save.failed" = "保存失敗";
-
-
 "photo.action.save.success" = "保存成功";
-
-
 "photo.action.save.title" = "保存圖片";
-
-
 "photo.action.share.title" = "分享圖片";
-
-
 "pincuts.edit" = "編輯 Pincuts";
-
-
 "pincuts.edit.markTip" = "點擊可以修改 Pincut 的備註";
-
-
 "pincuts.intro" = "你可以固定用戶和 List 到這里以方便瀏覽";
-
-
 "pincuts.mark.title" = "備註";
-
-
 "pincuts.new.mark.placeholder" = "備註";
-
-
 "pincuts.new.title" = "添加 Pincut";
-
-
 "pincuts.pin" = "Pin";
-
-
 "pincuts.title" = "Pincuts";
-
-
 "playEndBehavior.loop" = "循環播放";
-
-
 "playEndBehavior.next" = "播放下一個（可見時）";
-
-
 "playEndBehavior.stop" = "停止播放";
-
-
 "player.brightness" = "亮度";
-
-
 "post.answer.ask" = "提問：";
-
-
 "post.follow" = "關注";
-
-
 "post.follow.hud" = "已關注";
-
-
-"post.new.send" = "發起";
-
-
-"post.new.success" = "發表成功";
-
-
+"post.new.send" = "發布";
+"post.new.success" = "發布成功";
 "post.node" = "熱度";
-
-
 "post.notSupport" = "暫時不支持該內容顯示，請在Web上查看";
-
-
 "post.report" = "舉報";
-
-
 "post.search.placeholder" = "搜索";
-
-
 "post.type.all" = "全部";
-
-
 "post.type.photo" = "圖片";
-
-
 "post.type.text" = "文本";
-
-
 "post.type.video" = "視頻";
-
-
 "post.unfollow" = "取消關注";
-
-
 "post.unfollow.hud" = "已取消關注";
-
-
 "premium.description" = "你當前正在試用ttte，購買完整版以使用全部功能。";
-
-
 "premium.fullVersion" = "解鎖完整版";
-
-
 "premium.inAppPurchase.disabled" = "不允許程序內付費";
-
-
 "premium.intro.accounts" = "多帳號管理";
-
-
 "premium.intro.accounts.description" = "你可以添加多個Twitter帳戶，並隨時切換帳號來瀏覽推文。";
-
-
 "premium.intro.customizable" = "個性化顯示";
-
-
 "premium.intro.customizable.description" = "隨心所欲的控制推文的顯示樣式，文字大小、間距、頭像形狀，調到你喜歡。";
-
-
 "premium.intro.darkMode" = "夜間模式";
-
-
 "premium.intro.darkMode.description" = "使用奇妙的夜間模式，對你的眼睛好一點。";
-
-
 "premium.intro.faceID" = "面容ID & 指紋ID";
-
-
 "premium.intro.faceID.description" = "通過選擇性地添加指紋鎖或面容鎖，為ttte添加額外的安全層，為你的隱私保駕護航。";
-
-
 "premium.intro.saveMedias" = "添加媒體到保存的媒體";
-
-
 "premium.intro.saveMedias.description" = "發現感興趣的圖片和視頻？立即添加到保存的媒體，隨時隨地瀏覽！";
-
-
 "premium.intro.submitTweets" = "新的推文";
-
-
-"premium.intro.submitTweets.description" = "發起新的推文，及回复推文，可以使用令人驚嘆的多媒體選擇器及上傳工具。";
-
-
+"premium.intro.submitTweets.description" = "發布新的推文，及回复推文，可以使用令人驚嘆的多媒體選擇器及上傳工具。";
 "premium.intro.viewMediaList" = "媒體瀑布流";
-
-
 "premium.intro.viewMediaList.description" = "瀏覽媒體瀑布流，圖片視頻排成排！";
-
-
 "premium.limit.description" = "專業版功能";
-
-
 "premium.limit.upgradeButton.title" = "立即升級";
-
-
 "premium.success" = "已升級到專業版";
-
-
 "premium.title" = "升級到專業版";
-
-
 "premium.update.buy" = "以 %@ 的價格升級";
-
-
 "premium.update.restore" = "恢復購買";
-
-
 "premiumVerification.alert.message" = "需要對完整版進行驗證";
-
-
 "premiumVerification.failed.message" = "如果你已經購買完整版，現在可以進行恢復";
-
-
 "premiumVerification.failed.restore" = "恢復購買";
-
-
 "premiumVerification.failed.title" = "驗證失敗";
-
-
 "premiumVerification.succeed.title" = "驗證成功";
-
-
 "preview.photo.viewFullImage" = "查看原圖";
-
-
 "private.title" = "《服務使用協議》";
-
-
 "savedMedia.title" = "保存的媒體";
-
-
 "savedMedia.toolbar.saveToAlbum" = "保存到相冊";
-
-
 "search.tab.tweet" = "推文";
-
-
 "search.tab.user" = "用戶";
-
-
 "setting.about.about" = "關於";
-
-
-"setting.about.feedback" = "ttte 反饋建議";
-
-
+"setting.about.feedback" = "反饋建議";
 "setting.about.feedback.body" = "建議反饋: ";
-
-
 "setting.about.feedback.failed.noAccount" = "沒有可用的郵箱帳戶，請檢查相關設置。";
-
-
-"setting.about.feedback.title" = "建議反饋";
-
-
+"setting.about.feedback.title" = "ttte 建議反饋";
 "setting.about.rate" = "給ttte好評";
-
-
 "setting.about.support" = "支持ttte";
-
-
+"setting.accentColor" = "強調色";
+"setting.barButtonFollowAccentColor" = "導航欄按鈕使用強調色";
 "setting.darkMode" = "夜間模式";
-
-
+"setting.linksFollowAccentColor" = "鏈接使用強調色";
 "setting.other.cleanCache" = "清理緩存";
-
-
 "setting.other.cleanCache.alert.clean" = "清理";
-
-
 "setting.other.cleanCache.alert.message" = "不包括已離線的文件，清理後將無法恢復。";
-
-
 "setting.other.cleanCache.alert.title" = "清理緩存(%@)";
-
-
 "setting.other.cleanCache.cleaning" = "正在清理..";
-
-
 "setting.other.cleanCache.counting" = "計算中..";
-
-
 "setting.password.time.always" = "總是";
-
-
 "setting.password.time.minutes" = "%@分鐘後";
-
-
 "setting.password.time.title" = "設置驗證時間";
-
-
 "setting.photos.origin" = "預覽時自動加載原圖";
-
-
 "setting.photos.origin.always" = "始終";
-
-
 "setting.photos.origin.never" = "關閉";
-
-
 "setting.photos.origin.wifi" = "使用Wi-Fi時";
-
-
 "setting.player.autoPlay" = "自動播放視頻";
-
-
 "setting.player.endBehavior" = "視頻播放完時";
-
-
 "setting.player.endBehavior.selectorTitle" = "選擇視頻播放完時行為";
-
-
 "setting.player.mute" = "列表中默認播放聲音";
-
-
 "setting.presenting.avatar" = "頭像樣式";
-
-
 "setting.presenting.content.text" = "張大你的嘴，那萬物之嘆息，那海洋之怒放，讓我得以活在這珍貴的人世間。";
-
-
 "setting.presenting.fontSize" = "字體大小";
-
-
+"setting.presenting.layoutStyle" = "列表樣式";
+"setting.presenting.layoutStyle.card" = "卡片";
+"setting.presenting.layoutStyle.list" = "列表";
+"setting.presenting.layoutStyle.timedList" = "列表2";
 "setting.presenting.lineSpacing" = "文字間距";
-
-
+"setting.presenting.mediaLayoutStyle" = "多媒體佈局";
+"setting.presenting.mediaLayoutStyle.default" = "默認";
+"setting.presenting.mediaLayoutStyle.keepSize" = "保持原始比例";
 "setting.presenting.preview" = "樣式預覽";
-
-
 "setting.presenting.title" = "推文樣式";
-
-
 "setting.presenting.useBoldFont" = "使用粗體";
-
-
 "setting.presenting.useRoundAvatar" = "使用圓形頭像";
-
-
 "setting.private.open" = "開啟%@驗證";
-
-
 "setting.private.time" = "啟用時間";
-
-
 "setting.reading.useReadingModeForWeb" = "使用閱讀模式打開網頁";
-
-
 "setting.readingMode" = "閱讀模式";
-
-
 "setting.readingMode.positive" = "正序閱讀";
-
-
 "setting.readingMode.reverse" = "倒序閱讀";
-
-
 "setting.readingMode.selectTitle" = "請選擇閱讀模式";
-
-
 "setting.section.about" = "關於";
-
-
 "setting.section.other" = "其他";
-
-
 "setting.section.photo" = "看圖設置";
-
-
 "setting.section.player" = "播放設置";
-
-
 "setting.section.presenting" = "顯示設置";
-
-
 "setting.section.private" = "隱私設置";
-
-
 "setting.section.reading" = "閱讀設置";
-
-
 "setting.showSensitiveContent" = "顯示可能包含敏感內容的推文";
-
-
 "setting.tfFeedback" = "TF測試反饋";
-
-
 "setting.theme" = "主題";
-
-
 "setting.theme.useDarkX" = "使用DarkX作為默認夜間主題";
-
-
 "setting.title" = "設置";
-
-
 "setting.translate.activeAfterRelaunch" = "該設置重新啟動後生效";
-
-
 "setting.translate.engine" = "翻譯引擎";
-
-
 "setting.translate.languageNeedTranslate" = "需要翻譯的語言";
-
-
 "setting.translate.section.engine" = "引擎";
-
-
 "setting.translate.section.language" = "語言";
-
-
 "setting.translate.targetLanguage" = "目標語言";
-
-
 "setting.translate.title" = "翻譯設置";
-
-
 "support.followAuthor" = "關注作者";
-
-
 "support.others" = "我的作品";
-
-
 "support.rate" = "評分";
-
-
 "support.title" = "支持 ttte";
-
-
 "support.viewMore" = "查看更多";
-
-
 "tabs.notifications" = "通知";
-
-
 "text.action.share" = "分享";
-
-
 "tips.ok" = "知道了";
-
-
 "tips.player.close" = " 左右滑動調節播放進度，\n 向下滑動以退出播放器。";
-
-
 "tips.sharePhoto" = " 長按可以分享和存儲圖片，\n 在列表里長按也可以哦。";
-
-
 "title" = "ttte";
-
-
 "tranlateService.plan.yearly.name" = "按年訂閱";
-
-
 "translateService.engine.bing.description" = "由微軟提供的翻譯服務";
-
-
 "translateService.engine.bing.name" = "必應翻譯";
-
-
 "translateService.engine.google.description" = "由谷歌神經引擎項目提供的翻譯服務";
-
-
 "translateService.engine.google.name" = "谷歌翻譯(*)";
-
-
 "translateService.engine.google2.description" = "由谷歌神經引擎項目提供的翻譯服務";
-
-
 "translateService.engine.google2.name" = "谷歌翻譯";
-
-
 "translateService.plan.monthly.name" = "按月訂閱";
-
-
 "translateService.private" = "在確認購買時，會員費會被記入你的App Store 賬戶。並且訂閱會在訂閱期將要結束時自動更新，除非在當前訂閱期結束前至少24小時內關閉自動更新，否則您的帳戶將被收費。會員資格與你的iCloud 賬戶相連，並且可以在所有登陸iCloud 賬戶的iOS 設備上使用。如果您在訂閱後切換到新的iCloud 帳戶，您可以遷移成員。如果您有任何問題，請與我們聯繫。";
-
-
 "translateService.section.options" = "選項";
-
-
 "translateService.section.terms" = "服務條款";
-
-
 "translateService.subscibe.periodUnit.yearly" = "每年";
-
-
 "translateService.subscribe.buy" = "開始訂閱";
-
-
 "translateService.subscribe.description" = "使用付費的翻譯服務，包括谷歌翻譯、微軟必應翻譯等";
-
-
 "translateService.subscribe.expired" = "當前的訂閱已在 %@ 過期";
-
-
 "translateService.subscribe.notPurchased" = "當前沒有訂閱";
-
-
 "translateService.subscribe.periodUnit.monthly" = "每月";
-
-
 "translateService.subscribe.purchased" = "當前訂閱的有效期至 %@";
-
-
 "translateService.subscribe.verification.failed" = "驗證不通過";
-
-
 "translateService.subscribeState.sectionTitle" = "訂閱";
-
-
 "translateService.subscribeState.title" = "訂閱信息";
-
-
 "translateService.termsAndPolicy" = "條款及隱私政策";
-
-
 "translateService.title" = "翻譯服務";
-
-
 "trending.area" = "熱搜地區";
-
-
 "tweet.action.alert.title" = "請選擇操作";
-
-
 "tweet.action.retweet" = "轉推";
-
-
 "tweet.action.retweet.cancel" = "取消轉推";
-
-
 "tweet.action.reweetWithComment" = "帶評論轉推";
-
-
 "tweet.action.shareAsImage" = "生成圖片分享";
-
-
 "tweet.content.loadQuoted" = "顯示引用的推文";
-
-
 "tweet.content.retweeted" = "轉發推文";
-
-
 "tweet.content.sensitive.description" = "你可以選擇臨時查看或者更改你的隱私與安全設置";
-
-
 "tweet.content.sensitive.exitViewTemporarily" = "退出臨時查看";
-
-
 "tweet.content.sensitive.notice" = "此推文可能存在敏感的內容";
-
-
 "tweet.content.sensitive.setting" = "更改隱私與安全設置";
-
-
 "tweet.content.sensitive.viewTemporarily" = "臨時查看";
-
-
 "tweet.content.translateProvider" = "翻譯內容由 提供";
-
-
 "tweet.content.translateProvider.token" = "翻譯內容由";
-
-
 "user.action.addToList" = "添加到 List";
-
-
 "user.action.addToList.success" = "添加成功";
-
-
 "user.following" = "關注";
-
-
 "user.follows" = "關注者";
-
-
+"user.profile.action.block" = "屏蔽 %@";
+"user.profile.action.block.alert.confirm" = "屏蔽";
+"user.profile.action.mute" = "隱藏 %@";
+"user.profile.action.mute.alert.confirm" = "隱藏";
+"user.profile.action.unblock" = "解除屏蔽 %@";
+"user.profile.action.unblock.alert.confirm" = "解除屏蔽";
+"user.profile.action.unmute" = "取消隱藏 %@";
+"user.profile.action.unmute.alert.confirm" = "取消隱藏";
 "user.profile.actions.copyTtteLink" = "複製 ttte 鏈接";
-
-
 "user.profile.actions.copyTwitterLink" = "複製推特鏈接";
-
-
 "user.profile.actions.title" = "操作";
-
-
+"user.profile.blocked" = "已屏蔽";
+"user.profile.blockedBy" = "屏蔽了你";
+"user.profile.chat" = "私信";
 "user.profile.favourites" = "喜歡的推文";
-
-
 "user.profile.follow" = "關注";
-
-
+"user.profile.followedBy" = "關注了你";
 "user.profile.following" = "已關注";
-
-
-"user.profile.lists" = "Lists";
-
-
+"user.profile.listed" = "他们所在的列表";
+"user.profile.lists" = "列表";
 "user.profile.section.recentTweets" = "最近的推文";
-
-
 "user.profile.section.tweets" = "推文";
-
-
 "user.profile.tweets" = "推文";
-
-
 "user.profile.tweetsAndReplies" = "推文及回复";
-
-
 "user.title" = "我";
-
-
 "user.tweets" = "推文";
-
-
+"user.unfollow.alert.message" = "取消關注 %@？";
 "video.action.save" = "保存到相冊";
-
-
 "video.action.share.title" = "分享视频";
+"user.profile.actions.copyScreenName" = "复制用户名";
+"tweet.action.quote" = "引用推文";
+"tweet.action.like" = "喜歡";
+"tweet.action.unlike" = "取消喜歡";
+"setting.appIcon" = "應用圖標";
+"setting.presenting.mediaLayoutStyle.fullSize" = "最大化";
+"setting.presenting.mediaLayoutStyle.compact" = "緊湊";
+"setting.presenting.avatarLayout" = "頭像佈局";
+"setting.presenting.avatarLayout.alongside" = "側邊";
+"setting.presenting.avatarLayout.inline" = "平鋪";
+"setting.presenting.separator" = "分割線";
+"setting.presenting.separator.useWideSeparator" = "使用寬的分割線";
+"common.tweet" = "推文";
+"tweet.content.viewThread" = "顯示此主題帖";
