@@ -462,7 +462,7 @@
 "setting.photos.origin" = "Load origin photos when preview";
 
 /**/
-"setting.photos.origin.always" = "Always";
+"setting.photos.origin.always" = "دائماً";
 
 /**/
 "setting.photos.origin.never" = "Never";
