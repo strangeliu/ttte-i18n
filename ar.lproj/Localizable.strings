@@ -639,7 +639,7 @@
 "translateService.engine.google2.name" = "Google translation engine";
 
 /**/
-"translateService.plan.monthly.name" = "Subscribe monthly";
+"translateService.plan.monthly.name" = "اشتراك شهري";
 
 /**/
 "translateService.private" = "The membership fee is charged to your App Store account at confirmation of purchase. The subscription is automatically renews and your account is charged unless auto-renew is turned off at least 24 hours before the end of the current subscription period. The membership is link with your iCloud account, and available on all of your iOS devices that sign in to same iCloud account. You may Migrate Membership in case you switch to a new iCloud account after subscription. If you have any questions, please Contact Us.";
