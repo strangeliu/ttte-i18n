@@ -93,16 +93,16 @@
 "compose.saveAsDraft" = "Save as Draft";
 
 /**/
-"following.title" = "Following";
+"following.title" = "متابَعون";
 
 /**/
 "following.total" = "You are currently following %@ blogs";
 
 /**/
-"follows.title" = "Followers";
+"follows.title" = "متابِعين";
 
 /**/
-"follows.total" = "%@ followers";
+"follows.total" = "متابِعين %@";
 
 /**/
 "help.title" = "Help";
@@ -222,7 +222,7 @@
 "photo.action.save.title" = "Save Photo";
 
 /**/
-"photo.action.share.title" = "Share Photo";
+"photo.action.share.title" = "مشاركة الصورة";
 
 /**/
 "pincuts.edit" = "Edit Pincuts";
@@ -333,7 +333,7 @@
 "premium.intro.darkMode.description" = "Use fantastic dark mode, Be kind to your eyes.";
 
 /**/
-"premium.intro.faceID" = "Face ID & Touch ID";
+"premium.intro.faceID" = "Face ID و Touch ID";
 
 /**/
 "premium.intro.faceID.description" = "Add an extra layer of security to the ttte to protect your privacy by selectively adding Touch ID or Face ID unlock.";
@@ -546,7 +546,7 @@
 "setting.section.private" = "Private";
 
 /**/
-"setting.section.reading" = "Reading";
+"setting.section.reading" = "قراءة";
 
 /**/
 "setting.showSensitiveContent" = "Displays tweets that may contain sensitive content";
@@ -555,31 +555,31 @@
 "setting.tfFeedback" = "Feedback for Testflight";
 
 /**/
-"setting.theme" = "Theme";
+"setting.theme" = "المظهر";
 
 /**/
 "setting.theme.useDarkX" = "Use DarkX for dark mode";
 
 /**/
-"setting.title" = "Setting";
+"setting.title" = "الإعدادات";
 
 /**/
-"setting.translate.activeAfterRelaunch" = "This setting takes effect after restarting";
+"setting.translate.activeAfterRelaunch" = "يتم تطبيق الإعدادات بعد إعادة التشغيل";
 
 /**/
-"setting.translate.engine" = "Translation engine";
+"setting.translate.engine" = "محرك الترجمة";
 
 /**/
-"setting.translate.languageNeedTranslate" = "Languages need be translated";
+"setting.translate.languageNeedTranslate" = "يجب ترجمة اللغات";
 
 /**/
-"setting.translate.section.engine" = "Engine";
+"setting.translate.section.engine" = "محرك";
 
 /**/
-"setting.translate.section.language" = "Language";
+"setting.translate.section.language" = "اللغة";
 
 /**/
-"setting.translate.targetLanguage" = "Target Language";
+"setting.translate.targetLanguage" = "اللغة المحددة";
 
 /**/
 "setting.translate.title" = "إعدادات الترجمة";
@@ -606,13 +606,13 @@
 "text.action.share" = "مشاركة";
 
 /**/
-"tips.ok" = "Got it";
+"tips.ok" = "تم";
 
 /**/
-"tips.player.close" = " Swipe horizontal to adjust the playback, Swipt down to close.";
+"tips.player.close" = "انتقد أفقي لضبط التشغيل، اسحب إلى إغلاق.";
 
 /**/
-"tips.sharePhoto" = " Long press to share and save pictures.";
+"tips.sharePhoto" = "ضغطة مطولة لمشاركة أو حفظ الصور. ";
 
 /**/
 "title" = "ttte";
@@ -621,22 +621,22 @@
 "tranlateService.plan.yearly.name" = "اشتراك سنوي";
 
 /**/
-"translateService.engine.bing.description" = "Translation services provided by Microsoft";
+"translateService.engine.bing.description" = "خدمات الترجمة المقدمة من Microsoft";
 
 /**/
-"translateService.engine.bing.name" = "Bing translation services";
+"translateService.engine.bing.name" = "خدمات ترجمة Bing";
 
 /**/
-"translateService.engine.google.description" = "Translation services provided by the Google neural engine project";
+"translateService.engine.google.description" = "خدمات الترجمة المقدمة من مشروع Google Neural Engine";
 
 /**/
-"translateService.engine.google.name" = "Google translation services(*)";
+"translateService.engine.google.name" = "خدمات ترجمة Google(*)";
 
 /**/
-"translateService.engine.google2.description" = "Translation services provided by the Google neural engine project";
+"translateService.engine.google2.description" = "خدمات الترجمة المقدمة من مشروع Google Neural Engine";
 
 /**/
-"translateService.engine.google2.name" = "Google translation engine";
+"translateService.engine.google2.name" = "محرك ترجمة Google";
 
 /**/
 "translateService.plan.monthly.name" = "اشتراك شهري";
@@ -645,16 +645,16 @@
 "translateService.private" = "The membership fee is charged to your App Store account at confirmation of purchase. The subscription is automatically renews and your account is charged unless auto-renew is turned off at least 24 hours before the end of the current subscription period. The membership is link with your iCloud account, and available on all of your iOS devices that sign in to same iCloud account. You may Migrate Membership in case you switch to a new iCloud account after subscription. If you have any questions, please Contact Us.";
 
 /**/
-"translateService.section.options" = "Options";
+"translateService.section.options" = "الخيارات";
 
 /**/
 "translateService.section.terms" = "الشروط والأحكام";
 
 /**/
-"translateService.subscibe.periodUnit.yearly" = "Per Year";
+"translateService.subscibe.periodUnit.yearly" = "سنوياً";
 
 /**/
-"translateService.subscribe.buy" = "Subscribe Now";
+"translateService.subscribe.buy" = "اشترك الآن";
 
 /**/
 "translateService.subscribe.description" = "Use paid translation services, including Google Translate, Microsoft Bing Translator, etc.";
@@ -663,52 +663,52 @@
 "translateService.subscribe.expired" = "Current subscription has expired at %@";
 
 /**/
-"translateService.subscribe.notPurchased" = "No subscription currently";
+"translateService.subscribe.notPurchased" = "لا يوجد اشتراكات حالياً";
 
 /**/
-"translateService.subscribe.periodUnit.monthly" = "Per Month";
+"translateService.subscribe.periodUnit.monthly" = "شهرياً";
 
 /**/
 "translateService.subscribe.purchased" = "Current subscription is valid until %@";
 
 /**/
-"translateService.subscribe.verification.failed" = "Verification failed";
+"translateService.subscribe.verification.failed" = "فشل التحقق";
 
 /**/
-"translateService.subscribeState.sectionTitle" = "Subscription";
+"translateService.subscribeState.sectionTitle" = "الاشتراك";
 
 /**/
-"translateService.subscribeState.title" = "Subscription information";
+"translateService.subscribeState.title" = "معلومات الاشتراك";
 
 /**/
-"translateService.termsAndPolicy" = "Terms and Privacy Policy";
+"translateService.termsAndPolicy" = "شروط وسياسة الخصوصية";
 
 /**/
-"translateService.title" = "Tranlsate Service";
+"translateService.title" = "خدمة الترجمة";
 
 /**/
-"trending.area" = "Trending area";
+"trending.area" = "ترند المنطقة";
 
 /**/
-"tweet.action.alert.title" = "Actions";
+"tweet.action.alert.title" = "الخيارات";
 
 /**/
-"tweet.action.retweet" = "Retweet";
+"tweet.action.retweet" = "إعادة التغريد";
 
 /**/
-"tweet.action.retweet.cancel" = "Cancel retweet";
+"tweet.action.retweet.cancel" = "تراجع عن إعادة التغريد";
 
 /**/
-"tweet.action.reweetWithComment" = "Retweet with comment";
+"tweet.action.reweetWithComment" = "إعادة التغريد مع تعليق";
 
 /**/
-"tweet.action.shareAsImage" = "Share as image";
+"tweet.action.shareAsImage" = "مشاركة الصورة";
 
 /**/
 "tweet.content.loadQuoted" = "Show quoted tweet";
 
 /**/
-"tweet.content.retweeted" = "Retweeted";
+"tweet.content.retweeted" = "تمت إعادة التغريد";
 
 /**/
 "tweet.content.sensitive.description" = "You can view it temporarily or change your Privacy and safety account settings";
@@ -726,64 +726,64 @@
 "tweet.content.sensitive.viewTemporarily" = "View it temporarily";
 
 /**/
-"tweet.content.translateProvider" = "Translated by ";
+"tweet.content.translateProvider" = " تمت الترجمة بواسطة";
 
 /**/
-"tweet.content.translateProvider.token" = "Translated by";
+"tweet.content.translateProvider.token" = "تمت الترجمة بواسطة";
 
 /**/
-"URLScheme.collectedMedia" = "View Saved media";
+"URLScheme.collectedMedia" = "عرض الوسائط المحفوظة";
 
 /**/
-"URLScheme.compose" = "Compose";
+"URLScheme.compose" = "تغريد";
 
 /**/
-"URLScheme.openttte" = "Open ttte";
+"URLScheme.openttte" = "ttte فتح";
 
 /**/
-"URLScheme.search" = "Search";
+"URLScheme.search" = "البحث في تويتر";
 
 /**/
 "URLScheme.user" = "View user's profile";
 
 /**/
-"URLScheme.userFollowings" = "View user's followings";
+"URLScheme.userFollowings" = "عرض المتابَعون";
 
 /**/
-"URLScheme.userFollows" = "View user's followers";
+"URLScheme.userFollows" = "عرض المتابِعين";
 
 /**/
-"URLScheme.userLists" = "View user's lists";
+"URLScheme.userLists" = "عرض قوائم المستخدم";
 
 /**/
-"URLScheme.userMedia" = "View user's media";
+"URLScheme.userMedia" = "عرض وسائط المستخدم";
 
 /**/
-"URLScheme.userTweets" = "View user's tweets";
+"URLScheme.userTweets" = "عرض تغريدات المستخدم";
 
 /**/
 "URLScheme.viewMedia" = "View timeline media";
 
 /**/
-"user.action.addToList" = "Add to List";
+"user.action.addToList" = "إضافة إلى القوائم";
 
 /**/
-"user.action.addToList.success" = "Added";
+"user.action.addToList.success" = "تمت الإضافة بنجاح";
 
 /**/
-"user.following" = "Followings";
+"user.following" = "متابَعون";
 
 /**/
-"user.follows" = "Followers";
+"user.follows" = "متابِعين";
 
 /**/
-"user.profile.actions.copyTtteLink" = "Copy ttte link";
+"user.profile.actions.copyTtteLink" = "نسخ رابط ttte";
 
 /**/
-"user.profile.actions.copyTwitterLink" = "Copy Twitter link";
+"user.profile.actions.copyTwitterLink" = "نسخ رابط تويتر";
 
 /**/
-"user.profile.actions.title" = "Actions";
+"user.profile.actions.title" = "إجراءات";
 
 /**/
 "user.profile.favourites" = "Favourites";
@@ -792,7 +792,7 @@
 "user.profile.follow" = "Follow";
 
 /**/
-"user.profile.following" = "Following";
+"user.profile.following" = "متابَعون";
 
 /**/
 "user.profile.lists" = "القوائم";
@@ -810,7 +810,7 @@
 "user.profile.tweetsAndReplies" = "التغريدات والردود";
 
 /**/
-"user.title" = "ملف التعريف";
+"user.title" = "الملف الشخصي";
 
 /**/
 "user.tweets" = "التغريدات";
@@ -819,5 +819,5 @@
 "video.action.save" = "حفظ في ألبوم الكاميرا";
 
 /**/
-"video.action.share.title" = "مشاركة فيديو";
+"video.action.share.title" = "مشاركة الفيديو";
 
