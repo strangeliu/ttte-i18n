@@ -339,124 +339,124 @@
 "premium.intro.faceID.description" = "Add an extra layer of security to the ttte to protect your privacy by selectively adding Touch ID or Face ID unlock.";
 
 /**/
-"premium.intro.saveMedias" = "Forward medias to Saved media";
+"premium.intro.saveMedias" = "إعادة توجيه الوسائط إلى الوسائط المحفوظة";
 
 /**/
-"premium.intro.saveMedias.description" = "Add to saved media now and browse anytime, anywhere when you found interesting photos and videos.";
+"premium.intro.saveMedias.description" = "أضف إلى الوسائط المحفوظة الآن وتصفح في أي وقت وفي أي مكان عندما تجد صورًا ومقاطع فيديو مثيرة للاهتمام.";
 
 /**/
-"premium.intro.submitTweets" = "Subbbmit Tweets";
+"premium.intro.submitTweets" = "إرسال التغريدات";
 
 /**/
 "premium.intro.submitTweets.description" = "Create new tweets you love, with an amazing built-in image uploader, and more.";
 
 /**/
-"premium.intro.viewMediaList" = "View medias like a Pro";
+"premium.intro.viewMediaList" = "عرض الوسائط مثل الـ Pro";
 
 /**/
-"premium.intro.viewMediaList.description" = "Yeah, just view medias like a Pro";
+"premium.intro.viewMediaList.description" = "نعم، ما عليك سوى عرض الوسائط مثل الـ Pro";
 
 /**/
-"premium.limit.description" = "Premium Only";
+"premium.limit.description" = "فقط Premium";
 
 /**/
-"premium.limit.upgradeButton.title" = "Upgrade Now";
+"premium.limit.upgradeButton.title" = "الترقية الآن";
 
 /**/
-"premium.success" = "Pro Version";
+"premium.success" = "نسخة Pro";
 
 /**/
-"premium.title" = "Pro Version";
+"premium.title" = "نسخة Pro";
 
 /**/
-"premium.update.buy" = "Upgrade at %@";
+"premium.update.buy" = "الترقية في %@";
 
 /**/
-"premium.update.restore" = "Restore";
+"premium.update.restore" = "استعادة";
 
 /**/
-"premiumVerification.alert.message" = "Full Version needs to be verified";
+"premiumVerification.alert.message" = "يجب التحقق من النسخة الكاملة";
 
 /**/
 "premiumVerification.failed.message" = "If you have purchased Full Version, you can restore it.";
 
 /**/
-"premiumVerification.failed.restore" = "Restore";
+"premiumVerification.failed.restore" = "استعادة";
 
 /**/
-"premiumVerification.failed.title" = "Verification failed";
+"premiumVerification.failed.title" = "فشل التحقق";
 
 /**/
-"premiumVerification.succeed.title" = "Verification succeed";
+"premiumVerification.succeed.title" = "نجح التحقق";
 
 /**/
-"preview.photo.viewFullImage" = "Full Image";
+"preview.photo.viewFullImage" = "الصورة الكاملة";
 
 /**/
-"private.title" = "Service Usage Agreement";
+"private.title" = "اتفاقية استخدام الخدمة";
 
 /**/
-"savedMedia.title" = "Saved Media";
+"savedMedia.title" = "الوسائط المحفوظة";
 
 /**/
-"savedMedia.toolbar.saveToAlbum" = "Save to album";
+"savedMedia.toolbar.saveToAlbum" = "حفظ في ألبوم الكاميرا";
 
 /**/
-"search.tab.tweet" = "Tweets";
+"search.tab.tweet" = "التغريدات";
 
 /**/
-"search.tab.user" = "Users";
+"search.tab.user" = "المستخدمين";
 
 /**/
-"setting.about.about" = "About";
+"setting.about.about" = "حول";
 
 /**/
-"setting.about.feedback" = "Feedback for ttte";
+"setting.about.feedback" = "ملاحظات حول ttte";
 
 /**/
-"setting.about.feedback.body" = "Feedback: ";
+"setting.about.feedback.body" = "ملاحظات: ";
 
 /**/
 "setting.about.feedback.failed.noAccount" = "No available email account, please check related settings.";
 
 /**/
-"setting.about.feedback.title" = "Feedback";
+"setting.about.feedback.title" = "ملاحظات";
 
 /**/
-"setting.about.rate" = "Rate ttte";
+"setting.about.rate" = "تقييم ttte";
 
 /**/
-"setting.about.support" = "Support ttte";
+"setting.about.support" = "دعم ttte";
 
 /**/
-"setting.darkMode" = "Dark Mode";
+"setting.darkMode" = "الوضع الداكن";
 
 /**/
-"setting.other.cleanCache" = "Clean Cache";
+"setting.other.cleanCache" = "حذف الذاكرة المؤقتة";
 
 /**/
-"setting.other.cleanCache.alert.clean" = "Clean";
+"setting.other.cleanCache.alert.clean" = "حذف";
 
 /**/
 "setting.other.cleanCache.alert.message" = "This will not delete offline files, can not be restored after cleaning.";
 
 /**/
-"setting.other.cleanCache.alert.title" = "Clean cache(%@)";
+"setting.other.cleanCache.alert.title" = "حذف الذاكرة المؤقتة (%@)";
 
 /**/
-"setting.other.cleanCache.cleaning" = "cleaning..";
+"setting.other.cleanCache.cleaning" = "جاري الحذف..";
 
 /**/
-"setting.other.cleanCache.counting" = "calculating..";
+"setting.other.cleanCache.counting" = "جاري الحساب..";
 
 /**/
-"setting.password.time.always" = "Always";
+"setting.password.time.always" = "دائماً";
 
 /**/
 "setting.password.time.minutes" = "%@ minutes later";
 
 /**/
-"setting.password.time.title" = "Auto-Lock";
+"setting.password.time.title" = "قفل تلقائي";
 
 /**/
 "setting.photos.origin" = "Load origin photos when preview";
@@ -465,13 +465,13 @@
 "setting.photos.origin.always" = "دائماً";
 
 /**/
-"setting.photos.origin.never" = "Never";
+"setting.photos.origin.never" = "أبداً";
 
 /**/
 "setting.photos.origin.wifi" = "Wi-Fi";
 
 /**/
-"setting.player.autoPlay" = "Auto play videos";
+"setting.player.autoPlay" = "تشغيل مقاطع الفيديو تلقائيًا";
 
 /**/
 "setting.player.endBehavior" = "Behavior when video is over";
@@ -492,58 +492,58 @@
 "setting.presenting.fontSize" = "حجم الخط";
 
 /**/
-"setting.presenting.lineSpacing" = "Line Spacing";
+"setting.presenting.lineSpacing" = "تباعد الأسطر";
 
 /**/
 "setting.presenting.preview" = "Previewing";
 
 /**/
-"setting.presenting.title" = "Presenting Setting";
+"setting.presenting.title" = "إعدادات العرض";
 
 /**/
-"setting.presenting.useBoldFont" = "Bold font";
+"setting.presenting.useBoldFont" = "خط عريض";
 
 /**/
-"setting.presenting.useRoundAvatar" = "Round avatar";
+"setting.presenting.useRoundAvatar" = "صورة شخصية دائرية";
 
 /**/
 "setting.private.open" = "Turn on %@ authentication";
 
 /**/
-"setting.private.time" = "Auto-Lock";
+"setting.private.time" = "قفل تلقائي";
 
 /**/
-"setting.reading.useReadingModeForWeb" = "Use reading mode for web";
+"setting.reading.useReadingModeForWeb" = "استخدم وضع القراءة للمتصفح";
 
 /**/
-"setting.readingMode" = "Reading Mode";
+"setting.readingMode" = "وضع القراءة";
 
 /**/
-"setting.readingMode.positive" = "Positive";
+"setting.readingMode.positive" = "طبيعي";
 
 /**/
-"setting.readingMode.reverse" = "Reverse";
+"setting.readingMode.reverse" = "عكسي";
 
 /**/
-"setting.readingMode.selectTitle" = "Select the reading mode";
+"setting.readingMode.selectTitle" = "اختيار طريقة القراءة";
 
 /**/
-"setting.section.about" = "About";
+"setting.section.about" = "حول";
 
 /**/
-"setting.section.other" = "Other";
+"setting.section.other" = "أخرى";
 
 /**/
-"setting.section.photo" = "Photos";
+"setting.section.photo" = "الصور";
 
 /**/
 "setting.section.player" = "Player";
 
 /**/
-"setting.section.presenting" = "Presenting";
+"setting.section.presenting" = "العرض";
 
 /**/
-"setting.section.private" = "Private";
+"setting.section.private" = "الخصوصية";
 
 /**/
 "setting.section.reading" = "قراءة";
