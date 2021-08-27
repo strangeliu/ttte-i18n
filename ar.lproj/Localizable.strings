@@ -12,7 +12,7 @@
 "account.manage.logout.alert.title" = "تسجيل الخروج من الحساب الحالي؟";
 
 /**/
-"account.manage.title" = "إدارة الحساب";
+"account.manage.title" = "إدارة الحسابات";
 
 /**/
 "accountManager.add" = "إضافة حساب";
@@ -27,76 +27,76 @@
 "accountManager.deleteAlert.title" = "حذف الحساب %@ ؟";
 
 /**/
-"accountManager.section.multi" = "Multiple Accounts";
+"accountManager.section.multi" = "الحسابات";
 
 /**/
 "accountManager.switchAlert.action.confirm" = "تبديل";
 
 /**/
-"accountManager.switchAlert.title" = "Switch to account %@ ?";
+"accountManager.switchAlert.title" = "تبديل إلى الحساب %@ ؟";
 
 /**/
-"api.rateLimit" = "The operation is too frequent, please try again in %@ minutes";
+"api.rateLimit" = "عملية مكررة، يرجى المحاولة مرة أخرى بعد %@ دقيقة";
 
 /**/
-"app.shortcut.compose" = "Compose";
+"app.shortcut.compose" = "تغريد";
 
 /**/
-"app.shortcut.search" = "Search";
+"app.shortcut.search" = "بحث";
 
 /**/
-"blog.description.placeholder" = "No introduction";
+"blog.description.placeholder" = "بدون مقدمة";
 
 /**/
-"common.add" = "Add";
+"common.add" = "إضافة";
 
 /**/
-"common.cancel" = "Cancel";
+"common.cancel" = "إلغاء";
 
 /**/
-"common.copy" = "Copy";
+"common.copy" = "نسخ";
 
 /**/
-"common.delete" = "Delete";
+"common.delete" = "حذف";
 
 /**/
-"common.done" = "Done";
+"common.done" = "تم";
 
 /**/
-"common.more" = "More";
+"common.more" = "أكثر";
 
 /**/
-"common.next" = "Next";
+"common.next" = "التالي";
 
 /**/
-"common.notice" = "Notice";
+"common.notice" = "تنبيه";
 
 /**/
-"common.ok" = "OK";
+"common.ok" = "تم";
 
 /**/
-"common.participle" = "Participle";
+"common.participle" = "مشارك";
 
 /**/
-"common.processing" = "Processing";
+"common.processing" = "جاري المعالجة";
 
 /**/
-"common.recommend" = "recommend";
+"common.recommend" = "يوصى به";
 
 /**/
-"common.reply" = "Reply";
+"common.reply" = "رد";
 
 /**/
-"common.select" = "Select";
+"common.select" = "تحديد";
 
 /**/
-"compose.saveAsDraft" = "Save as Draft";
+"compose.saveAsDraft" = "حفظ كمسودة";
 
 /**/
 "following.title" = "متابَعون";
 
 /**/
-"following.total" = "You are currently following %@ blogs";
+"following.total" = "أنت حاليًا تتابع %@ من المدونات";
 
 /**/
 "follows.title" = "متابِعين";
@@ -105,97 +105,97 @@
 "follows.total" = "متابِعين %@";
 
 /**/
-"help.title" = "Help";
+"help.title" = "مساعدة";
 
 /**/
-"likes.title" = "Likes";
+"likes.title" = "الإعجابات";
 
 /**/
-"list.empty" = "No data";
+"list.empty" = "لا يوجد أي بيانات";
 
 /**/
-"list.retry" = "Retry";
+"list.retry" = "إعادة المحاولة";
 
 /**/
-"lists.create" = "Create";
+"lists.create" = "إنشاء";
 
 /**/
-"lists.info.delete" = "Delete";
+"lists.info.delete" = "حذف";
 
 /**/
-"lists.info.deleteAlert.message" = "This operation cannot be undone";
+"lists.info.deleteAlert.message" = "هذه العملية لا يمكن التراجع عنها";
 
 /**/
-"lists.info.deleteAlert.title" = "Delete %@";
+"lists.info.deleteAlert.title" = "حذف %@";
 
 /**/
-"lists.info.members" = "Members";
+"lists.info.members" = "الأعضاء";
 
 /**/
-"lists.info.mode" = "Mode";
+"lists.info.mode" = "الحالة";
 
 /**/
-"lists.info.subscribe" = "Subscribe";
+"lists.info.subscribe" = "الاشتراك";
 
 /**/
-"lists.info.subscribers" = "Subscribers";
+"lists.info.subscribers" = "المشتركين";
 
 /**/
-"lists.info.unsubscribe" = "Unsubscribe";
+"lists.info.unsubscribe" = "إلغاء الاشتراك";
 
 /**/
-"lists.new.descriptionField.placeholder" = "Description";
+"lists.new.descriptionField.placeholder" = "الوصف";
 
 /**/
-"lists.new.makePublic" = "Make it public";
+"lists.new.makePublic" = "اجعلها عامة";
 
 /**/
-"lists.new.titleField.placeholder" = "Title";
+"lists.new.titleField.placeholder" = "العنوان";
 
 /**/
-"lists.new.warn.titleEmpty" = "Please input title";
+"lists.new.warn.titleEmpty" = "الرجاء إدخال العنوان";
 
 /**/
-"login.button" = "Login via Twitter";
+"login.button" = "تسجيل الدخول عبر تويتر";
 
 /**/
-"login.expired" = "Login has expired";
+"login.expired" = "انتهت صلاحية تسجيل الدخول";
 
 /**/
-"login.privateButton" = "Login in means you agreed to the service agreement";
+"login.privateButton" = "بتسجيل الدخول تقر بأنك وافقت على اتفاقية الخدمة";
 
 /**/
-"login.retry" = "Re-login";
+"login.retry" = "إعادة المحاولة";
 
 /**/
-"login.title" = "Login";
+"login.title" = "تسجيل الدخول";
 
 /**/
-"media.forwardToSavedMedia.message.success" = "Succeeded";
+"media.forwardToSavedMedia.message.success" = "تم بنجاح";
 
 /**/
-"media.fowardToSavedMedia" = "Foward to Saved media";
+"media.fowardToSavedMedia" = "تحويل إلى الوسائط المحفوظة";
 
 /**/
-"media.list.title" = "Media";
+"media.list.title" = "الوسائط";
 
 /**/
-"media.list.view" = "View Media";
+"media.list.view" = "عرض الوسائط";
 
 /**/
-"media.viewTweet" = "View tweet";
+"media.viewTweet" = "عرض التغريدة";
 
 /**/
-"mentions.title" = "Mentions";
+"mentions.title" = "الإشارات";
 
 /**/
-"message.title" = "Messages";
+"message.title" = "الرسائل";
 
 /**/
-"messages.title" = "Messages";
+"messages.title" = "الرسائل";
 
 /**/
-"password.authentication.reason" = "Need to verify your identity";
+"password.authentication.reason" = "يجب التحقق من هويتك";
 
 /**/
 "password.type.faceID.name" = "Face ID";
@@ -204,130 +204,130 @@
 "password.type.touchID.name" = "Touch ID";
 
 /**/
-"password.unlock.description" = "Tap to unlock using %@";
+"password.unlock.description" = "المس للفتح باستخدام %@";
 
 /**/
-"password.unlock.failed.timesout" = "%@ is locked due to too much errors, Please lock iPhone and unlock using password.";
+"password.unlock.failed.timesout" = "%@ مقفل بسبب المحاولات المتكررة، يرجى قفل iPhoneوإلغاء القفل باستخدام كلمة المرور.";
 
 /**/
-"password.unlock.timesout" = "Too much errors, it is recommended to use the password to unlock.";
+"password.unlock.timesout" = "هناك الكثير من المحاولات الخاطئة ، يوصى باستخدام كلمة المرور لإلغاء القفل.";
 
 /**/
-"photo.action.save.failed" = "Save photo failed";
+"photo.action.save.failed" = "فشل حفظ الصورة";
 
 /**/
-"photo.action.save.success" = "Saved";
+"photo.action.save.success" = "تم الحفظ";
 
 /**/
-"photo.action.save.title" = "Save Photo";
+"photo.action.save.title" = "حفظ الصورة";
 
 /**/
 "photo.action.share.title" = "مشاركة الصورة";
 
 /**/
-"pincuts.edit" = "Edit Pincuts";
+"pincuts.edit" = "تحرير Pincuts";
 
 /**/
-"pincuts.edit.markTip" = "Tap to remark pincuts";
+"pincuts.edit.markTip" = "انقر لإعادة تسمية Pincuts";
 
 /**/
-"pincuts.intro" = "You can pin user and list here";
+"pincuts.intro" = "يمكنك تثبيت أي مستخدم وعرضه هنا";
 
 /**/
-"pincuts.mark.title" = "Remark";
+"pincuts.mark.title" = "إعادة تسمية";
 
 /**/
-"pincuts.new.mark.placeholder" = "Remark";
+"pincuts.new.mark.placeholder" = "إعادة تسمية";
 
 /**/
-"pincuts.new.title" = "Add pincut";
+"pincuts.new.title" = "إضافة Pincuts";
 
 /**/
-"pincuts.pin" = "Pin";
+"pincuts.pin" = "تثبيت";
 
 /**/
 "pincuts.title" = "Pincuts";
 
 /**/
-"playEndBehavior.loop" = "Loop";
+"playEndBehavior.loop" = "إعادة تشغيل";
 
 /**/
-"playEndBehavior.next" = "Play Next（when visible）";
+"playEndBehavior.next" = "تشغيل التالي（عندما يكون متاح）";
 
 /**/
-"playEndBehavior.stop" = "Stop";
+"playEndBehavior.stop" = "إيقاف";
 
 /**/
-"player.brightness" = "Brightness";
+"player.brightness" = "السطوع";
 
 /**/
-"post.answer.ask" = "asking: ";
+"post.answer.ask" = "طلب: ";
 
 /**/
-"post.follow" = "Follow";
+"post.follow" = "متابعة";
 
 /**/
-"post.follow.hud" = "Follow successed";
+"post.follow.hud" = "تمت المتابعة";
 
 /**/
-"post.new.send" = "Tweet";
+"post.new.send" = "تغريد";
 
 /**/
-"post.new.success" = "Post succeeded";
+"post.new.success" = "تم النشر";
 
 /**/
-"post.node" = "Node";
+"post.node" = "المكان";
 
 /**/
-"post.notSupport" = "This content is not supported, please check it on the web";
+"post.notSupport" = "هذا المحتوى غير مدعوم، يرجى التحقق منه على الويب";
 
 /**/
-"post.report" = "Report";
+"post.report" = "إبلاغ";
 
 /**/
-"post.search.placeholder" = "Search";
+"post.search.placeholder" = "البحث في تويتر";
 
 /**/
-"post.type.all" = "All";
+"post.type.all" = "الكل";
 
 /**/
-"post.type.photo" = "Photos";
+"post.type.photo" = "صورة";
 
 /**/
-"post.type.text" = "Text";
+"post.type.text" = "نص";
 
 /**/
-"post.type.video" = "Videos";
+"post.type.video" = "فيديو";
 
 /**/
-"post.unfollow" = "Unfollow";
+"post.unfollow" = "إلغاء المتابعة";
 
 /**/
-"post.unfollow.hud" = "Unfollow successed";
+"post.unfollow.hud" = "تم إلغاء المتابعة";
 
 /**/
-"premium.description" = "Upgrade to Full Version of ttte";
+"premium.description" = "قم بالترقية للحصول على جميع مميزات ttte";
 
 /**/
-"premium.fullVersion" = "Full Version";
+"premium.fullVersion" = "النسخة الكاملة";
 
 /**/
-"premium.inAppPurchase.disabled" = "In-App purchase is not allowed";
+"premium.inAppPurchase.disabled" = "الشراء داخل التطبيق غير مسموح به";
 
 /**/
-"premium.intro.accounts" = "Multiple Accounts";
+"premium.intro.accounts" = "الحسابات";
 
 /**/
-"premium.intro.accounts.description" = "Add multiple Twitter accounts to browser, post, and comment from.";
+"premium.intro.accounts.description" = "أضف العديد من حسابات تويتر، تصفح، انشر، علق.";
 
 /**/
 "premium.intro.customizable" = "Customizable";
 
 /**/
-"premium.intro.customizable.description" = "Control the style of your tweets, the size of your text, the spacing, and the shape of your avatar to your liking.";
+"premium.intro.customizable.description" = "تحكم في أسلوب تغريداتك ، وحجم الخط، والمسافات، وشكل الصورة الشخصية حسب رغبتك.";
 
 /**/
-"premium.intro.darkMode" = "Dark Mode";
+"premium.intro.darkMode" = "الوضع الداكن";
 
 /**/
 "premium.intro.darkMode.description" = "Use fantastic dark mode, Be kind to your eyes.";
@@ -474,19 +474,19 @@
 "setting.player.autoPlay" = "تشغيل مقاطع الفيديو تلقائيًا";
 
 /**/
-"setting.player.endBehavior" = "Behavior when video is over";
+"setting.player.endBehavior" = "عند انتهاء الفيديو";
 
 /**/
-"setting.player.endBehavior.selectorTitle" = "Choose the behavior when the video is end";
+"setting.player.endBehavior.selectorTitle" = "اختيار الإجراء عند انتهاء الفيديو";
 
 /**/
-"setting.player.mute" = "Mute player in the list";
+"setting.player.mute" = "كتم صوت المشغل في القائمة";
 
 /**/
 "setting.presenting.avatar" = "صورة العرض";
 
 /**/
-"setting.presenting.content.text" = " “Open your mouth wide, The universal sigh, And the ocean blooms, It's what keeps me alive.";
+"setting.presenting.content.text" = "Open your mouth wide, The universal sigh, And the ocean blooms, It's what keeps me alive.";
 
 /**/
 "setting.presenting.fontSize" = "حجم الخط";
@@ -495,7 +495,7 @@
 "setting.presenting.lineSpacing" = "تباعد الأسطر";
 
 /**/
-"setting.presenting.preview" = "Previewing";
+"setting.presenting.preview" = "استعراض التغريدة";
 
 /**/
 "setting.presenting.title" = "إعدادات العرض";
@@ -507,7 +507,7 @@
 "setting.presenting.useRoundAvatar" = "صورة شخصية دائرية";
 
 /**/
-"setting.private.open" = "Turn on %@ authentication";
+"setting.private.open" = "تفعيل مصادقة %@";
 
 /**/
 "setting.private.time" = "قفل تلقائي";
@@ -537,7 +537,7 @@
 "setting.section.photo" = "الصور";
 
 /**/
-"setting.section.player" = "Player";
+"setting.section.player" = "المشغل";
 
 /**/
 "setting.section.presenting" = "العرض";
@@ -546,19 +546,19 @@
 "setting.section.private" = "الخصوصية";
 
 /**/
-"setting.section.reading" = "قراءة";
+"setting.section.reading" = "القراءة";
 
 /**/
-"setting.showSensitiveContent" = "Displays tweets that may contain sensitive content";
+"setting.showSensitiveContent" = "عرض التغريدات التي قد تحتوي على محتوى حساس";
 
 /**/
-"setting.tfFeedback" = "Feedback for Testflight";
+"setting.tfFeedback" = "ملاحظات لـ Testflight";
 
 /**/
 "setting.theme" = "المظهر";
 
 /**/
-"setting.theme.useDarkX" = "Use DarkX for dark mode";
+"setting.theme.useDarkX" = "استخدام DarkX للوضع الداكن";
 
 /**/
 "setting.title" = "الإعدادات";
@@ -609,10 +609,10 @@
 "tips.ok" = "تم";
 
 /**/
-"tips.player.close" = "انتقد أفقي لضبط التشغيل، اسحب إلى إغلاق.";
+"tips.player.close" = "اسحب بشكل أفقي لضبط التشغيل، اسحب إلى أسفل للإغلاق.";
 
 /**/
-"tips.sharePhoto" = "ضغطة مطولة لمشاركة أو حفظ الصور. ";
+"tips.sharePhoto" = "ضغطة مطولة لمشاركة أو حفظ الصور.";
 
 /**/
 "title" = "ttte";
@@ -741,10 +741,10 @@
 "URLScheme.openttte" = "ttte فتح";
 
 /**/
-"URLScheme.search" = "البحث في تويتر";
+"URLScheme.search" = "بحث";
 
 /**/
-"URLScheme.user" = "View user's profile";
+"URLScheme.user" = "عرض الملف الشخصي";
 
 /**/
 "URLScheme.userFollowings" = "عرض المتابَعون";
@@ -762,7 +762,7 @@
 "URLScheme.userTweets" = "عرض تغريدات المستخدم";
 
 /**/
-"URLScheme.viewMedia" = "View timeline media";
+"URLScheme.viewMedia" = "عرض الخط الزمني";
 
 /**/
 "user.action.addToList" = "إضافة إلى القوائم";
@@ -786,10 +786,10 @@
 "user.profile.actions.title" = "إجراءات";
 
 /**/
-"user.profile.favourites" = "Favourites";
+"user.profile.favourites" = "المفضلة";
 
 /**/
-"user.profile.follow" = "Follow";
+"user.profile.follow" = "متابعة";
 
 /**/
 "user.profile.following" = "متابَعون";
