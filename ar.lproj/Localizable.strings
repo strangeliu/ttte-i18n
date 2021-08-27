@@ -210,7 +210,7 @@
 "password.unlock.failed.timesout" = "%@ مقفل بسبب المحاولات المتكررة، يرجى قفل iPhoneوإلغاء القفل باستخدام كلمة المرور.";
 
 /**/
-"password.unlock.timesout" = "هناك الكثير من المحاولات الخاطئة ، يوصى باستخدام كلمة المرور لإلغاء القفل.";
+"password.unlock.timesout" = "هناك الكثير من المحاولات الخاطئة، يوصى باستخدام كلمة المرور لإلغاء القفل.";
 
 /**/
 "photo.action.save.failed" = "فشل حفظ الصورة";
@@ -321,7 +321,7 @@
 "premium.intro.accounts.description" = "أضف العديد من حسابات تويتر، تصفح، انشر، علق.";
 
 /**/
-"premium.intro.customizable" = "Customizable";
+"premium.intro.customizable" = "قابل للتخصيص";
 
 /**/
 "premium.intro.customizable.description" = "تحكم في أسلوب تغريداتك ، وحجم الخط، والمسافات، وشكل الصورة الشخصية حسب رغبتك.";
@@ -330,13 +330,13 @@
 "premium.intro.darkMode" = "الوضع الداكن";
 
 /**/
-"premium.intro.darkMode.description" = "Use fantastic dark mode, Be kind to your eyes.";
+"premium.intro.darkMode.description" = "استخدم الوضع الداكن الرائع، كن لطيفًا مع عينيك.";
 
 /**/
 "premium.intro.faceID" = "Face ID و Touch ID";
 
 /**/
-"premium.intro.faceID.description" = "Add an extra layer of security to the ttte to protect your privacy by selectively adding Touch ID or Face ID unlock.";
+"premium.intro.faceID.description" = "أضف طبقة أمان إضافية إلى ttte لحماية خصوصيتك عن طريق إضافة Touch ID أو Face ID لإلغاء القفل.";
 
 /**/
 "premium.intro.saveMedias" = "إعادة توجيه الوسائط إلى الوسائط المحفوظة";
@@ -348,7 +348,7 @@
 "premium.intro.submitTweets" = "إرسال التغريدات";
 
 /**/
-"premium.intro.submitTweets.description" = "Create new tweets you love, with an amazing built-in image uploader, and more.";
+"premium.intro.submitTweets.description" = "أنشئ تغريدات جديدة تحبها، باستخدام أداة تحميل الصور الرائعة ، والمزيد.";
 
 /**/
 "premium.intro.viewMediaList" = "عرض الوسائط مثل الـ Pro";
@@ -357,7 +357,7 @@
 "premium.intro.viewMediaList.description" = "نعم، ما عليك سوى عرض الوسائط مثل الـ Pro";
 
 /**/
-"premium.limit.description" = "فقط Premium";
+"premium.limit.description" = "فقط لمستخدمين Premium";
 
 /**/
 "premium.limit.upgradeButton.title" = "الترقية الآن";
@@ -378,7 +378,7 @@
 "premiumVerification.alert.message" = "يجب التحقق من النسخة الكاملة";
 
 /**/
-"premiumVerification.failed.message" = "If you have purchased Full Version, you can restore it.";
+"premiumVerification.failed.message" = "إذا كنت قد اشتريت النسخة الكاملة من قبل، فيمكنك استعادتها.";
 
 /**/
 "premiumVerification.failed.restore" = "استعادة";
@@ -390,7 +390,7 @@
 "premiumVerification.succeed.title" = "نجح التحقق";
 
 /**/
-"preview.photo.viewFullImage" = "الصورة الكاملة";
+"preview.photo.viewFullImage" = "عرض الصورة بشكل كامل";
 
 /**/
 "private.title" = "اتفاقية استخدام الخدمة";
@@ -405,7 +405,7 @@
 "search.tab.tweet" = "التغريدات";
 
 /**/
-"search.tab.user" = "المستخدمين";
+"search.tab.user" = "الأشخاص";
 
 /**/
 "setting.about.about" = "حول";
@@ -417,7 +417,7 @@
 "setting.about.feedback.body" = "ملاحظات: ";
 
 /**/
-"setting.about.feedback.failed.noAccount" = "No available email account, please check related settings.";
+"setting.about.feedback.failed.noAccount" = "لا يوجد حساب بريد إلكتروني متاح ، يرجى التحقق من الإعدادات.";
 
 /**/
 "setting.about.feedback.title" = "ملاحظات";
@@ -438,7 +438,7 @@
 "setting.other.cleanCache.alert.clean" = "حذف";
 
 /**/
-"setting.other.cleanCache.alert.message" = "This will not delete offline files, can not be restored after cleaning.";
+"setting.other.cleanCache.alert.message" = "لن يؤدي هذا إلى حذف الملفات الغير متصلة بالإنترنت ، ولا يمكن استعادتها بعد التنظيف.";
 
 /**/
 "setting.other.cleanCache.alert.title" = "حذف الذاكرة المؤقتة (%@)";
@@ -453,13 +453,13 @@
 "setting.password.time.always" = "دائماً";
 
 /**/
-"setting.password.time.minutes" = "%@ minutes later";
+"setting.password.time.minutes" = "%@ بعد دقائق";
 
 /**/
 "setting.password.time.title" = "قفل تلقائي";
 
 /**/
-"setting.photos.origin" = "Load origin photos when preview";
+"setting.photos.origin" = "تحميل الصور الأصلية عند المعاينة";
 
 /**/
 "setting.photos.origin.always" = "دائماً";
@@ -642,7 +642,7 @@
 "translateService.plan.monthly.name" = "اشتراك شهري";
 
 /**/
-"translateService.private" = "The membership fee is charged to your App Store account at confirmation of purchase. The subscription is automatically renews and your account is charged unless auto-renew is turned off at least 24 hours before the end of the current subscription period. The membership is link with your iCloud account, and available on all of your iOS devices that sign in to same iCloud account. You may Migrate Membership in case you switch to a new iCloud account after subscription. If you have any questions, please Contact Us.";
+"translateService.private" = "يتم فرض رسوم العضوية على حساب App Store الخاص بك عند تأكيد الشراء. يتم تجديد الاشتراك تلقائيًا ويتم تحصيل رسوم من حسابك ما لم يتم إيقاف التجديد التلقائي قبل 24 ساعة على الأقل من نهاية فترة الاشتراك الحالية. العضوية مرتبطة بحساب iCloud الخاص بك ، ومتاحة على جميع أجهزة iOS الخاصة بك التي تسجّل الدخول إلى حساب iCloud نفسه. يمكنك ترحيل العضوية في حالة التبديل إلى حساب iCloud جديد بعد الاشتراك. إذا كان لديك أي أسئلة، يرجى الاتصال بنا.";
 
 /**/
 "translateService.section.options" = "الخيارات";
@@ -657,10 +657,10 @@
 "translateService.subscribe.buy" = "اشترك الآن";
 
 /**/
-"translateService.subscribe.description" = "Use paid translation services, including Google Translate, Microsoft Bing Translator, etc.";
+"translateService.subscribe.description" = "استخدم خدمات الترجمة المدفوعة ، بما في ذلك Google Translate و Microsoft Bing Translator.";
 
 /**/
-"translateService.subscribe.expired" = "Current subscription has expired at %@";
+"translateService.subscribe.expired" = "الاشتراك الحالى انتهى في %@";
 
 /**/
 "translateService.subscribe.notPurchased" = "لا يوجد اشتراكات حالياً";
@@ -669,7 +669,7 @@
 "translateService.subscribe.periodUnit.monthly" = "شهرياً";
 
 /**/
-"translateService.subscribe.purchased" = "Current subscription is valid until %@";
+"translateService.subscribe.purchased" = "الاشتراك الحالي صالح حتى %@";
 
 /**/
 "translateService.subscribe.verification.failed" = "فشل التحقق";
@@ -699,31 +699,31 @@
 "tweet.action.retweet.cancel" = "تراجع عن إعادة التغريد";
 
 /**/
-"tweet.action.reweetWithComment" = "إعادة التغريد مع تعليق";
+"tweet.action.reweetWithComment" = "اقتباس التغريدة";
 
 /**/
 "tweet.action.shareAsImage" = "مشاركة الصورة";
 
 /**/
-"tweet.content.loadQuoted" = "Show quoted tweet";
+"tweet.content.loadQuoted" = "عرض التغريدة المقتبسة";
 
 /**/
 "tweet.content.retweeted" = "تمت إعادة التغريد";
 
 /**/
-"tweet.content.sensitive.description" = "You can view it temporarily or change your Privacy and safety account settings";
+"tweet.content.sensitive.description" = "يمكنك عرضه مؤقتًا أو تغيير إعدادات الخصوصية والأمان";
 
 /**/
-"tweet.content.sensitive.exitViewTemporarily" = "Exit temporarily view mode";
+"tweet.content.sensitive.exitViewTemporarily" = "الخروج من وضع العرض المؤقت";
 
 /**/
-"tweet.content.sensitive.notice" = "This Tweet may include potentially sensitive content";
+"tweet.content.sensitive.notice" = "قد تتضمن هذه التغريدة محتوى حساسًا";
 
 /**/
-"tweet.content.sensitive.setting" = "Privacy and safety account settings";
+"tweet.content.sensitive.setting" = "إعدادات الخصوصية والأمان";
 
 /**/
-"tweet.content.sensitive.viewTemporarily" = "View it temporarily";
+"tweet.content.sensitive.viewTemporarily" = "عرض بشكل مؤقت";
 
 /**/
 "tweet.content.translateProvider" = " تمت الترجمة بواسطة";
