@@ -1,0 +1,823 @@
+
+/**/
+"about.licensence" = "Open Source License";
+
+/**/
+"about.rate" = "تقييم";
+
+/**/
+"account.manage.logout" = "تسجيل خروج";
+
+/**/
+"account.manage.logout.alert.title" = "تسجيل الخروج من الحساب الحالي؟";
+
+/**/
+"account.manage.title" = "إدارة الحسابات";
+
+/**/
+"accountManager.add" = "إضافة حساب";
+
+/**/
+"accountManager.delete" = "حذف";
+
+/**/
+"accountManager.deleteAlert.action.confirm" = "حذف";
+
+/**/
+"accountManager.deleteAlert.title" = "حذف الحساب %@ ؟";
+
+/**/
+"accountManager.section.multi" = "الحسابات";
+
+/**/
+"accountManager.switchAlert.action.confirm" = "تبديل";
+
+/**/
+"accountManager.switchAlert.title" = "تبديل إلى الحساب %@ ؟";
+
+/**/
+"api.rateLimit" = "عملية مكررة، يرجى المحاولة مرة أخرى بعد %@ دقيقة";
+
+/**/
+"app.shortcut.compose" = "تغريد";
+
+/**/
+"app.shortcut.search" = "بحث";
+
+/**/
+"blog.description.placeholder" = "بدون مقدمة";
+
+/**/
+"common.add" = "إضافة";
+
+/**/
+"common.cancel" = "إلغاء";
+
+/**/
+"common.copy" = "نسخ";
+
+/**/
+"common.delete" = "حذف";
+
+/**/
+"common.done" = "تم";
+
+/**/
+"common.more" = "أكثر";
+
+/**/
+"common.next" = "التالي";
+
+/**/
+"common.notice" = "تنبيه";
+
+/**/
+"common.ok" = "تم";
+
+/**/
+"common.participle" = "مشارك";
+
+/**/
+"common.processing" = "جاري المعالجة";
+
+/**/
+"common.recommend" = "يوصى به";
+
+/**/
+"common.reply" = "رد";
+
+/**/
+"common.select" = "تحديد";
+
+/**/
+"compose.saveAsDraft" = "حفظ كمسودة";
+
+/**/
+"following.title" = "متابَعون";
+
+/**/
+"following.total" = "أنت حاليًا تتابع %@ من المدونات";
+
+/**/
+"follows.title" = "متابِعين";
+
+/**/
+"follows.total" = "متابِعين %@";
+
+/**/
+"help.title" = "مساعدة";
+
+/**/
+"likes.title" = "الإعجابات";
+
+/**/
+"list.empty" = "لا يوجد أي بيانات";
+
+/**/
+"list.retry" = "إعادة المحاولة";
+
+/**/
+"lists.create" = "إنشاء";
+
+/**/
+"lists.info.delete" = "حذف";
+
+/**/
+"lists.info.deleteAlert.message" = "هذه العملية لا يمكن التراجع عنها";
+
+/**/
+"lists.info.deleteAlert.title" = "حذف %@";
+
+/**/
+"lists.info.members" = "الأعضاء";
+
+/**/
+"lists.info.mode" = "الحالة";
+
+/**/
+"lists.info.subscribe" = "الاشتراك";
+
+/**/
+"lists.info.subscribers" = "المشتركين";
+
+/**/
+"lists.info.unsubscribe" = "إلغاء الاشتراك";
+
+/**/
+"lists.new.descriptionField.placeholder" = "الوصف";
+
+/**/
+"lists.new.makePublic" = "اجعلها عامة";
+
+/**/
+"lists.new.titleField.placeholder" = "العنوان";
+
+/**/
+"lists.new.warn.titleEmpty" = "الرجاء إدخال العنوان";
+
+/**/
+"login.button" = "تسجيل الدخول عبر تويتر";
+
+/**/
+"login.expired" = "انتهت صلاحية تسجيل الدخول";
+
+/**/
+"login.privateButton" = "بتسجيل الدخول تقر بأنك وافقت على اتفاقية الخدمة";
+
+/**/
+"login.retry" = "إعادة المحاولة";
+
+/**/
+"login.title" = "تسجيل الدخول";
+
+/**/
+"media.forwardToSavedMedia.message.success" = "تم بنجاح";
+
+/**/
+"media.fowardToSavedMedia" = "تحويل إلى الوسائط المحفوظة";
+
+/**/
+"media.list.title" = "الوسائط";
+
+/**/
+"media.list.view" = "عرض الوسائط";
+
+/**/
+"media.viewTweet" = "عرض التغريدة";
+
+/**/
+"mentions.title" = "الإشارات";
+
+/**/
+"message.title" = "الرسائل";
+
+/**/
+"messages.title" = "الرسائل";
+
+/**/
+"password.authentication.reason" = "يجب التحقق من هويتك";
+
+/**/
+"password.type.faceID.name" = "Face ID";
+
+/**/
+"password.type.touchID.name" = "Touch ID";
+
+/**/
+"password.unlock.description" = "المس للفتح باستخدام %@";
+
+/**/
+"password.unlock.failed.timesout" = "%@ مقفل بسبب المحاولات المتكررة، يرجى قفل iPhoneوإلغاء القفل باستخدام كلمة المرور.";
+
+/**/
+"password.unlock.timesout" = "هناك الكثير من المحاولات الخاطئة، يوصى باستخدام كلمة المرور لإلغاء القفل.";
+
+/**/
+"photo.action.save.failed" = "فشل حفظ الصورة";
+
+/**/
+"photo.action.save.success" = "تم الحفظ";
+
+/**/
+"photo.action.save.title" = "حفظ الصورة";
+
+/**/
+"photo.action.share.title" = "مشاركة الصورة";
+
+/**/
+"pincuts.edit" = "تحرير Pincuts";
+
+/**/
+"pincuts.edit.markTip" = "انقر لإعادة تسمية Pincuts";
+
+/**/
+"pincuts.intro" = "يمكنك تثبيت أي مستخدم وعرضه هنا";
+
+/**/
+"pincuts.mark.title" = "إعادة تسمية";
+
+/**/
+"pincuts.new.mark.placeholder" = "إعادة تسمية";
+
+/**/
+"pincuts.new.title" = "إضافة Pincuts";
+
+/**/
+"pincuts.pin" = "تثبيت";
+
+/**/
+"pincuts.title" = "Pincuts";
+
+/**/
+"playEndBehavior.loop" = "إعادة تشغيل";
+
+/**/
+"playEndBehavior.next" = "تشغيل التالي（عندما يكون متاح）";
+
+/**/
+"playEndBehavior.stop" = "إيقاف";
+
+/**/
+"player.brightness" = "السطوع";
+
+/**/
+"post.answer.ask" = "طلب: ";
+
+/**/
+"post.follow" = "متابعة";
+
+/**/
+"post.follow.hud" = "تمت المتابعة";
+
+/**/
+"post.new.send" = "تغريد";
+
+/**/
+"post.new.success" = "تم النشر";
+
+/**/
+"post.node" = "المكان";
+
+/**/
+"post.notSupport" = "هذا المحتوى غير مدعوم، يرجى التحقق منه على الويب";
+
+/**/
+"post.report" = "إبلاغ";
+
+/**/
+"post.search.placeholder" = "البحث في تويتر";
+
+/**/
+"post.type.all" = "الكل";
+
+/**/
+"post.type.photo" = "صورة";
+
+/**/
+"post.type.text" = "نص";
+
+/**/
+"post.type.video" = "فيديو";
+
+/**/
+"post.unfollow" = "إلغاء المتابعة";
+
+/**/
+"post.unfollow.hud" = "تم إلغاء المتابعة";
+
+/**/
+"premium.description" = "قم بالترقية للحصول على جميع مميزات ttte";
+
+/**/
+"premium.fullVersion" = "النسخة الكاملة";
+
+/**/
+"premium.inAppPurchase.disabled" = "الشراء داخل التطبيق غير مسموح به";
+
+/**/
+"premium.intro.accounts" = "الحسابات";
+
+/**/
+"premium.intro.accounts.description" = "أضف العديد من حسابات تويتر، تصفح، انشر، علق.";
+
+/**/
+"premium.intro.customizable" = "قابل للتخصيص";
+
+/**/
+"premium.intro.customizable.description" = "تحكم في أسلوب تغريداتك ، وحجم الخط، والمسافات، وشكل الصورة الشخصية حسب رغبتك.";
+
+/**/
+"premium.intro.darkMode" = "الوضع الداكن";
+
+/**/
+"premium.intro.darkMode.description" = "استخدم الوضع الداكن الرائع، كن لطيفًا مع عينيك.";
+
+/**/
+"premium.intro.faceID" = "Face ID و Touch ID";
+
+/**/
+"premium.intro.faceID.description" = "أضف طبقة أمان إضافية إلى ttte لحماية خصوصيتك عن طريق إضافة Touch ID أو Face ID لإلغاء القفل.";
+
+/**/
+"premium.intro.saveMedias" = "إعادة توجيه الوسائط إلى الوسائط المحفوظة";
+
+/**/
+"premium.intro.saveMedias.description" = "أضف إلى الوسائط المحفوظة الآن وتصفح في أي وقت وفي أي مكان عندما تجد صورًا ومقاطع فيديو مثيرة للاهتمام.";
+
+/**/
+"premium.intro.submitTweets" = "إرسال التغريدات";
+
+/**/
+"premium.intro.submitTweets.description" = "أنشئ تغريدات جديدة تحبها، باستخدام أداة تحميل الصور الرائعة ، والمزيد.";
+
+/**/
+"premium.intro.viewMediaList" = "عرض الوسائط مثل الـ Pro";
+
+/**/
+"premium.intro.viewMediaList.description" = "نعم، ما عليك سوى عرض الوسائط مثل الـ Pro";
+
+/**/
+"premium.limit.description" = "فقط لمستخدمين Premium";
+
+/**/
+"premium.limit.upgradeButton.title" = "الترقية الآن";
+
+/**/
+"premium.success" = "نسخة Pro";
+
+/**/
+"premium.title" = "نسخة Pro";
+
+/**/
+"premium.update.buy" = "الترقية في %@";
+
+/**/
+"premium.update.restore" = "استعادة";
+
+/**/
+"premiumVerification.alert.message" = "يجب التحقق من النسخة الكاملة";
+
+/**/
+"premiumVerification.failed.message" = "إذا كنت قد اشتريت النسخة الكاملة من قبل، فيمكنك استعادتها.";
+
+/**/
+"premiumVerification.failed.restore" = "استعادة";
+
+/**/
+"premiumVerification.failed.title" = "فشل التحقق";
+
+/**/
+"premiumVerification.succeed.title" = "نجح التحقق";
+
+/**/
+"preview.photo.viewFullImage" = "عرض الصورة بشكل كامل";
+
+/**/
+"private.title" = "اتفاقية استخدام الخدمة";
+
+/**/
+"savedMedia.title" = "الوسائط المحفوظة";
+
+/**/
+"savedMedia.toolbar.saveToAlbum" = "حفظ في ألبوم الكاميرا";
+
+/**/
+"search.tab.tweet" = "التغريدات";
+
+/**/
+"search.tab.user" = "الأشخاص";
+
+/**/
+"setting.about.about" = "حول";
+
+/**/
+"setting.about.feedback" = "ملاحظات حول ttte";
+
+/**/
+"setting.about.feedback.body" = "ملاحظات: ";
+
+/**/
+"setting.about.feedback.failed.noAccount" = "لا يوجد حساب بريد إلكتروني متاح ، يرجى التحقق من الإعدادات.";
+
+/**/
+"setting.about.feedback.title" = "ملاحظات";
+
+/**/
+"setting.about.rate" = "تقييم ttte";
+
+/**/
+"setting.about.support" = "دعم ttte";
+
+/**/
+"setting.darkMode" = "الوضع الداكن";
+
+/**/
+"setting.other.cleanCache" = "حذف الذاكرة المؤقتة";
+
+/**/
+"setting.other.cleanCache.alert.clean" = "حذف";
+
+/**/
+"setting.other.cleanCache.alert.message" = "لن يؤدي هذا إلى حذف الملفات الغير متصلة بالإنترنت ، ولا يمكن استعادتها بعد التنظيف.";
+
+/**/
+"setting.other.cleanCache.alert.title" = "حذف الذاكرة المؤقتة (%@)";
+
+/**/
+"setting.other.cleanCache.cleaning" = "جاري الحذف..";
+
+/**/
+"setting.other.cleanCache.counting" = "جاري الحساب..";
+
+/**/
+"setting.password.time.always" = "دائماً";
+
+/**/
+"setting.password.time.minutes" = "%@ بعد دقائق";
+
+/**/
+"setting.password.time.title" = "قفل تلقائي";
+
+/**/
+"setting.photos.origin" = "تحميل الصور الأصلية عند المعاينة";
+
+/**/
+"setting.photos.origin.always" = "دائماً";
+
+/**/
+"setting.photos.origin.never" = "أبداً";
+
+/**/
+"setting.photos.origin.wifi" = "Wi-Fi";
+
+/**/
+"setting.player.autoPlay" = "تشغيل مقاطع الفيديو تلقائيًا";
+
+/**/
+"setting.player.endBehavior" = "عند انتهاء الفيديو";
+
+/**/
+"setting.player.endBehavior.selectorTitle" = "اختيار الإجراء عند انتهاء الفيديو";
+
+/**/
+"setting.player.mute" = "كتم صوت المشغل في القائمة";
+
+/**/
+"setting.presenting.avatar" = "صورة العرض";
+
+/**/
+"setting.presenting.content.text" = "Open your mouth wide, The universal sigh, And the ocean blooms, It's what keeps me alive.";
+
+/**/
+"setting.presenting.fontSize" = "حجم الخط";
+
+/**/
+"setting.presenting.lineSpacing" = "تباعد الأسطر";
+
+/**/
+"setting.presenting.preview" = "استعراض التغريدة";
+
+/**/
+"setting.presenting.title" = "إعدادات العرض";
+
+/**/
+"setting.presenting.useBoldFont" = "خط عريض";
+
+/**/
+"setting.presenting.useRoundAvatar" = "صورة شخصية دائرية";
+
+/**/
+"setting.private.open" = "تفعيل مصادقة %@";
+
+/**/
+"setting.private.time" = "قفل تلقائي";
+
+/**/
+"setting.reading.useReadingModeForWeb" = "استخدم وضع القراءة للمتصفح";
+
+/**/
+"setting.readingMode" = "وضع القراءة";
+
+/**/
+"setting.readingMode.positive" = "طبيعي";
+
+/**/
+"setting.readingMode.reverse" = "عكسي";
+
+/**/
+"setting.readingMode.selectTitle" = "اختيار طريقة القراءة";
+
+/**/
+"setting.section.about" = "حول";
+
+/**/
+"setting.section.other" = "أخرى";
+
+/**/
+"setting.section.photo" = "الصور";
+
+/**/
+"setting.section.player" = "المشغل";
+
+/**/
+"setting.section.presenting" = "العرض";
+
+/**/
+"setting.section.private" = "الخصوصية";
+
+/**/
+"setting.section.reading" = "القراءة";
+
+/**/
+"setting.showSensitiveContent" = "عرض التغريدات التي قد تحتوي على محتوى حساس";
+
+/**/
+"setting.tfFeedback" = "ملاحظات لـ Testflight";
+
+/**/
+"setting.theme" = "المظهر";
+
+/**/
+"setting.theme.useDarkX" = "استخدام DarkX للوضع الداكن";
+
+/**/
+"setting.title" = "الإعدادات";
+
+/**/
+"setting.translate.activeAfterRelaunch" = "يتم تطبيق الإعدادات بعد إعادة التشغيل";
+
+/**/
+"setting.translate.engine" = "محرك الترجمة";
+
+/**/
+"setting.translate.languageNeedTranslate" = "يجب ترجمة اللغات";
+
+/**/
+"setting.translate.section.engine" = "محرك";
+
+/**/
+"setting.translate.section.language" = "اللغة";
+
+/**/
+"setting.translate.targetLanguage" = "اللغة المحددة";
+
+/**/
+"setting.translate.title" = "إعدادات الترجمة";
+
+/**/
+"support.followAuthor" = "متابعة المبرمج";
+
+/**/
+"support.others" = "تطبيقات أخرى قد تعجبك";
+
+/**/
+"support.rate" = "تقييم";
+
+/**/
+"support.title" = "دعم ttte";
+
+/**/
+"support.viewMore" = "عرض المزيد";
+
+/**/
+"tabs.notifications" = "الإشعارات";
+
+/**/
+"text.action.share" = "مشاركة";
+
+/**/
+"tips.ok" = "تم";
+
+/**/
+"tips.player.close" = "اسحب بشكل أفقي لضبط التشغيل، اسحب إلى أسفل للإغلاق.";
+
+/**/
+"tips.sharePhoto" = "ضغطة مطولة لمشاركة أو حفظ الصور.";
+
+/**/
+"title" = "ttte";
+
+/**/
+"tranlateService.plan.yearly.name" = "اشتراك سنوي";
+
+/**/
+"translateService.engine.bing.description" = "خدمات الترجمة المقدمة من Microsoft";
+
+/**/
+"translateService.engine.bing.name" = "خدمات ترجمة Bing";
+
+/**/
+"translateService.engine.google.description" = "خدمات الترجمة المقدمة من مشروع Google Neural Engine";
+
+/**/
+"translateService.engine.google.name" = "خدمات ترجمة Google(*)";
+
+/**/
+"translateService.engine.google2.description" = "خدمات الترجمة المقدمة من مشروع Google Neural Engine";
+
+/**/
+"translateService.engine.google2.name" = "محرك ترجمة Google";
+
+/**/
+"translateService.plan.monthly.name" = "اشتراك شهري";
+
+/**/
+"translateService.private" = "يتم فرض رسوم العضوية على حساب App Store الخاص بك عند تأكيد الشراء. يتم تجديد الاشتراك تلقائيًا ويتم تحصيل رسوم من حسابك ما لم يتم إيقاف التجديد التلقائي قبل 24 ساعة على الأقل من نهاية فترة الاشتراك الحالية. العضوية مرتبطة بحساب iCloud الخاص بك ، ومتاحة على جميع أجهزة iOS الخاصة بك التي تسجّل الدخول إلى حساب iCloud نفسه. يمكنك ترحيل العضوية في حالة التبديل إلى حساب iCloud جديد بعد الاشتراك. إذا كان لديك أي أسئلة، يرجى الاتصال بنا.";
+
+/**/
+"translateService.section.options" = "الخيارات";
+
+/**/
+"translateService.section.terms" = "الشروط والأحكام";
+
+/**/
+"translateService.subscibe.periodUnit.yearly" = "سنوياً";
+
+/**/
+"translateService.subscribe.buy" = "اشترك الآن";
+
+/**/
+"translateService.subscribe.description" = "استخدم خدمات الترجمة المدفوعة ، بما في ذلك Google Translate و Microsoft Bing Translator.";
+
+/**/
+"translateService.subscribe.expired" = "الاشتراك الحالى انتهى في %@";
+
+/**/
+"translateService.subscribe.notPurchased" = "لا يوجد اشتراكات حالياً";
+
+/**/
+"translateService.subscribe.periodUnit.monthly" = "شهرياً";
+
+/**/
+"translateService.subscribe.purchased" = "الاشتراك الحالي صالح حتى %@";
+
+/**/
+"translateService.subscribe.verification.failed" = "فشل التحقق";
+
+/**/
+"translateService.subscribeState.sectionTitle" = "الاشتراك";
+
+/**/
+"translateService.subscribeState.title" = "معلومات الاشتراك";
+
+/**/
+"translateService.termsAndPolicy" = "شروط وسياسة الخصوصية";
+
+/**/
+"translateService.title" = "خدمة الترجمة";
+
+/**/
+"trending.area" = "ترند المنطقة";
+
+/**/
+"tweet.action.alert.title" = "الخيارات";
+
+/**/
+"tweet.action.retweet" = "إعادة التغريد";
+
+/**/
+"tweet.action.retweet.cancel" = "تراجع عن إعادة التغريد";
+
+/**/
+"tweet.action.reweetWithComment" = "اقتباس التغريدة";
+
+/**/
+"tweet.action.shareAsImage" = "مشاركة الصورة";
+
+/**/
+"tweet.content.loadQuoted" = "عرض التغريدة المقتبسة";
+
+/**/
+"tweet.content.retweeted" = "تمت إعادة التغريد";
+
+/**/
+"tweet.content.sensitive.description" = "يمكنك عرضه مؤقتًا أو تغيير إعدادات الخصوصية والأمان";
+
+/**/
+"tweet.content.sensitive.exitViewTemporarily" = "الخروج من وضع العرض المؤقت";
+
+/**/
+"tweet.content.sensitive.notice" = "قد تتضمن هذه التغريدة محتوى حساسًا";
+
+/**/
+"tweet.content.sensitive.setting" = "إعدادات الخصوصية والأمان";
+
+/**/
+"tweet.content.sensitive.viewTemporarily" = "عرض بشكل مؤقت";
+
+/**/
+"tweet.content.translateProvider" = " تمت الترجمة بواسطة";
+
+/**/
+"tweet.content.translateProvider.token" = "تمت الترجمة بواسطة";
+
+/**/
+"URLScheme.collectedMedia" = "عرض الوسائط المحفوظة";
+
+/**/
+"URLScheme.compose" = "تغريد";
+
+/**/
+"URLScheme.openttte" = "ttte فتح";
+
+/**/
+"URLScheme.search" = "بحث";
+
+/**/
+"URLScheme.user" = "عرض الملف الشخصي";
+
+/**/
+"URLScheme.userFollowings" = "عرض المتابَعون";
+
+/**/
+"URLScheme.userFollows" = "عرض المتابِعين";
+
+/**/
+"URLScheme.userLists" = "عرض قوائم المستخدم";
+
+/**/
+"URLScheme.userMedia" = "عرض وسائط المستخدم";
+
+/**/
+"URLScheme.userTweets" = "عرض تغريدات المستخدم";
+
+/**/
+"URLScheme.viewMedia" = "عرض الخط الزمني";
+
+/**/
+"user.action.addToList" = "إضافة إلى القوائم";
+
+/**/
+"user.action.addToList.success" = "تمت الإضافة بنجاح";
+
+/**/
+"user.following" = "متابَعون";
+
+/**/
+"user.follows" = "متابِعين";
+
+/**/
+"user.profile.actions.copyTtteLink" = "نسخ رابط ttte";
+
+/**/
+"user.profile.actions.copyTwitterLink" = "نسخ رابط تويتر";
+
+/**/
+"user.profile.actions.title" = "إجراءات";
+
+/**/
+"user.profile.favourites" = "المفضلة";
+
+/**/
+"user.profile.follow" = "متابعة";
+
+/**/
+"user.profile.following" = "متابَعون";
+
+/**/
+"user.profile.lists" = "القوائم";
+
+/**/
+"user.profile.section.recentTweets" = "التغريدات الأخيرة";
+
+/**/
+"user.profile.section.tweets" = "التغريدات";
+
+/**/
+"user.profile.tweets" = "التغريدات";
+
+/**/
+"user.profile.tweetsAndReplies" = "التغريدات والردود";
+
+/**/
+"user.title" = "الملف الشخصي";
+
+/**/
+"user.tweets" = "التغريدات";
+
+/**/
+"video.action.save" = "حفظ في ألبوم الكاميرا";
+
+/**/
+"video.action.share.title" = "مشاركة الفيديو";
+

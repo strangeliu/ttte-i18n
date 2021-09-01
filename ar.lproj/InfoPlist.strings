@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  ttte
+
+  Created by Liu on 2018/3/10.
+  Maintained by Mazen Al-Hrazi 2021/08/27.
+  Copyright © 2018年 grace. All rights reserved.
+*/
+
+{
+    NSPhotoLibraryUsageDescription = "يستخدم لتغريد الصور وحفظ الصور إلى ألبوم الكاميرا.";
+    NSPhotoLibraryAddUsageDescription = "يستخدم لحفظ الصور إلى ألبوم الكاميرا";
+    NSCameraUsageDescription = "يستخدم لأخذ صور وتغريدها";
+    NSFaceIDUsageDescription = "يستخدم لفك قفل التطبيق";
+    NSLocationWhenInUseUsageDescription = "يستخدم لإضافة موقعك في التغريدة";
+}
