@@ -821,3 +821,146 @@
 /**/
 "video.action.share.title" = "مشاركة الفيديو";
 
+/**/
+"account.verify.alert.action" = "تحقق الآن";
+
+/**/
+"account.verify.alert.message" = "يتطلب Twitter التحقق من حسابك لمنع إساءة الاستخدام ، قم بزيارة twitter.com للتحقق من حسابك";
+
+/**/
+"account.verify.alert.title" = "التحقق من أمان الحساب";
+
+/**/
+"common.copyLink" = "نسخ الرابط";
+
+/**/
+"common.tweet" = "تغريد";
+
+/**/
+"compose.drafts.title" = "المسودات";
+
+/**/
+"contextAction.url.openWithReadingMode" = "فتح في وضع القراءة";
+
+/**/
+"contextAction.url.openWithSystemBrowser" = "فتح باستخدام المتصفح الافتراضي";
+
+/**/
+"list.loadMore" = "تحميل المزيد";
+
+/**/
+"lists.create.title" = "قائمة جديدة";
+
+/**/
+"lists.viewDetail" = "تفاصيل";
+
+/**/
+"setting.accentColor" = "اللون الأساسي";
+
+/**/
+"setting.appIcon" = "أيقونة التطبيق";
+
+/**/
+"setting.barButtonFollowAccentColor" = "استخدم اللون الأساسي لأزرار الشريط";
+
+/**/
+"setting.linksFollowAccentColor" = "استخدم اللون الأساسي للروابط";
+
+/**/
+"setting.presenting.avatarLayout" = "أسلوب الصورة الشخصية";
+
+/**/
+"setting.presenting.avatarLayout.alongside" = "بجانب النص";
+
+/**/
+"setting.presenting.avatarLayout.inline" = "منفصل عن النص";
+
+/**/
+"setting.presenting.layoutStyle" = "أسلوب التصميم";
+
+/**/
+"setting.presenting.layoutStyle.card" = "بطاقة";
+
+/**/
+"setting.presenting.layoutStyle.list" = "قائمة";
+
+/**/
+"setting.presenting.layoutStyle.timedList" = "قائمة بوقت";
+
+/**/
+"setting.presenting.mediaLayoutStyle" = "أسلوب تصميم الوسائط";
+
+/**/
+"setting.presenting.mediaLayoutStyle.compact" = "مصغر";
+
+/**/
+"setting.presenting.mediaLayoutStyle.default" = "افتراضي";
+
+/**/
+"setting.presenting.mediaLayoutStyle.fullSize" = "بأكبر قدر ممكن";
+
+/**/
+"setting.presenting.mediaLayoutStyle.keepSize" = "احتفظ بالحجم الأصلي";
+
+/**/
+"setting.presenting.separator" = "الفاصل";
+
+/**/
+"setting.presenting.separator.useWideSeparator" = "استخدم فاصل عريض";
+
+/**/
+"tweet.action.like" = "إعجاب";
+
+/**/
+"tweet.action.quote" = "اقتباس";
+
+/**/
+"tweet.action.unlike" = "إلغاء الإعجاب";
+
+/**/
+"tweet.content.viewThread" = "عرض الثريد";
+
+/**/
+"user.profile.action.block" = "حضر %@";
+
+/**/
+"user.profile.action.block.alert.confirm" = "حظر";
+
+/**/
+"user.profile.action.mute" = "كتم %@";
+
+/**/
+"user.profile.action.mute.alert.confirm" = "كتم";
+
+/**/
+"user.profile.action.unblock" = "إلغاء حظر %@";
+
+/**/
+"user.profile.action.unblock.alert.confirm" = "إلغاء الحظر";
+
+/**/
+"user.profile.action.unmute" = "إلغاء كتم %@";
+
+/**/
+"user.profile.action.unmute.alert.confirm" = "إلغاء الكتم";
+
+/**/
+"user.profile.actions.copyScreenName" = "نسخ اسم المستخدم";
+
+/**/
+"user.profile.blocked" = "محظور";
+
+/**/
+"user.profile.blockedBy" = "قام بحظرك";
+
+/**/
+"user.profile.chat" = "محادثة";
+
+/**/
+"user.profile.followedBy" = "يتابعك";
+
+/**/
+"user.profile.listed" = "مدرج في";
+
+/**/
+"user.unfollow.alert.message" = "إلغاء متابعة %@ ؟";
